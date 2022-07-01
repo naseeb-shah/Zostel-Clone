@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <link rel = "stylesheet" href = "zostelcity.css" />
+
+    <link rel = "stylesheet" href = "footer.css"/>
+    <link rel="stylesheet" href="header.css">
+ </head>
+<body>
+     <div id = "navbar"></div>
+    <div id = "cityImage"></div>
+    <div id = "cityDesc">
+        <h3>Welcome to</h3>
+        <h1 class = "cityName">City Name</h1>
+        <p class = "about">About</p>
+        <p id = "desc"></p>
+
+        <h2 >Stays around <span class = "cityName1">city</span><h2>
+    </div>
+    <div id = "stays">
+
+    </div>
+
+    <div id = "footer"></div>
+</body>
+<script src = "zostelcity.js" type = "module">
+</script>
+<script src = "header.js"></script>
+
+<script type = "module">
+    import nav from "./import_header.js"
+    document.getElementById("navbar").innerHTML = nav()
+</script>
+
+
+</html>
+

@@ -1,0 +1,157 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+/* body{
+    background-color: black;
+} */
+#boxOnSlider{
+    background-color: white;
+   position: absolute;
+   /* top: -60vh; */
+   bottom: 23vh;
+   left: 17vw;
+   width: 63vw;
+   border-radius: 10px;
+  z-index: 60;
+}
+#type{
+   display: flex;
+   padding: 2vh 5vh;
+   font-size: 1.3vw;
+   justify-content: space-between;
+   font-weight: 600;
+   
+}
+#type > div{
+    padding-bottom: 2vh;
+}
+#belowType{
+    padding: 4vh 12vh;
+    display: flex;
+    width: 44vw;
+    justify-content: space-between;
+    text-transform: uppercase;
+    color: gray;
+    font-weight: 700;
+    font-size: .8vw;
+}
+#inpBox{
+    width: 60vw;
+    display: flex;
+    margin: auto;
+    margin-bottom: 2vh;
+    justify-content: space-between;
+}
+#inpBox > input{
+    padding-bottom: 1.8vh;
+}
+#fillPlace{
+    width: 19.5vw;
+    border: none;
+    border-bottom: 1px solid black;
+    outline: none;
+}
+#datebox{
+    width: 20vw;
+    display: flex;
+    justify-content: space-between;
+}
+#date1,#date2{
+    width: 10vw;
+    border: none;
+    border-bottom: .5px solid grey;
+    outline: none;
+}
+#bookNowButton{
+    background-color: rgb(241,88,36);
+    padding: 2vh 6vw;
+    color: white;
+    width: 19vw;
+    border-radius: 5px;
+    font-size: 1.1vw;
+    text-align: center;
+}
+#bookNowButton:hover {
+    box-shadow: 2px 1px 5px 4px rgba(0,0,0,0.10);
+
+}
+input:placeholder-shown {
+   font-size: 1vw;
+} 
+#DestinationSel{
+    width: 14vw;
+}
+.Destination{
+ border-bottom: 2px solid red;
+}
+.border_bottom{
+    border-bottom: 2px solid red; 
+}
+.clear_border{
+    border-bottom: none; 
+}
+
+
+@media screen and (min-width:60px) and (max-width:630px) {
+    #boxOnSlider{
+        width: 90vw;
+        left: 3vw;
+    }
+    #type  {
+        font-size: 3vw;
+        padding-left: 1vh .5vh;
+    }
+    #belowType {
+        width: 90vw;
+        font-size: 2vw;
+        margin: 0%;
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+        /* border: 1px solid red; */
+        padding: 0%;
+        padding-top: 5vh;
+        padding-bottom: 5vh;
+    }
+    #DestinationSel{
+        width: 32vw;
+        margin-left: 0%;
+        padding-left: 0%;
+        /* border: 1px solid red; */
+    }
+    #fillPlace{
+        width: 50vw;
+        margin: auto;
+    }
+    #fillPlace:placeholder-shown {
+        font-size: 3vw;
+    }
+    #inpBox{
+        width: 90vw;
+        margin: 0%;
+        padding: 0%;
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+        gap: 4vh;
+    
+    }
+    #datebox{
+        width: 60vw;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        margin: auto;
+        /* margin-top: 4vh; */
+    }
+    #date1,#date2{
+        width: 25vw;
+    }
+    #bookNowButton{
+        width: 50vw;
+        font-size: 3vw;
+        /* margin-top: 8vh; */
+        margin: auto;
+    }
+}
+   

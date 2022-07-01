@@ -1,0 +1,25 @@
+{
+  "name": "zostel-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanjanaSinghh/Zostel-Clone.git"
+  },
+  "author": "sanjana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SanjanaSinghh/Zostel-Clone/issues"
+  },
+  "homepage": "https://github.com/SanjanaSinghh/Zostel-Clone#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+  "devDependencies": {
+    "concurrently": "^7.2.1"
+  }
+}

@@ -1,0 +1,28 @@
+#background-image{
+    width:100%;
+    border: 3px solid red;
+}
+#supressed-image{
+    width:100%;
+    height:auto;
+    margin: auto;
+
+  }
+
+#flexBox{
+display:flex;
+flex-direction: column;
+width:60%;
+height:auto;
+margin: auto;
+margin-top: -500px;
+
+}
+/* #content-div{
+
+} */
+#small-box{
+  display:flex;
+  justify-content: space-between;
+  border: 2px solid red;
+}

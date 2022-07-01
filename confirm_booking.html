@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Confirm Your Booking</title>
+    <link rel="stylesheet" href="./confirm_booking.css">
+    <link rel="stylesheet" href="./header.css">
+    <link rel="stylesheet" href="./footer.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
+<body>
+    <div id="nav"></div>
+
+    <div id="confirmation-booking-heading">
+       <a href="./rooms.html"><i class="material-icons">arrow_back</i></a>  <h1>Confirm Your Booking </h1>
+    </div>
+
+    <div class="guest-information">
+       <h3>Guest Information </h3>
+   <a id="hid_gue"> <i class="material-icons" id="hideguest">expand_more </i></a>
+    </div>
+
+    <div id="main_box">
+<div id="input_box1">
+    <div id="input_box"> 
+    <div class="inp">
+                <div class="input_place_name">
+                    <label for="firstname_at">Name<span style="color:red">*</span></label>
+                </div>    
+            <div class="input_typed_text_name">
+                <input type="text" placeholder="Enter the first name" id="firstname_at" >
+                <input type="text" placeholder="Enter the middle name" id="middle_at" >
+                <input type="text" placeholder="Enter the last name" id="lastname_at" >
+            </div>
+            </div>
+
+            <div class="inp">
+                <div class="input_place_name">
+                    <label for="gender_at">Gender<span style="color:red">*</span></label>
+                </div>
+                <div class="input_typed_text_other">
+                    <select id="select_gender">
+                    <option>
+                      Male  
+                    </option>
+                    <option>
+                        Female  
+                      </option>
+                      <option>
+                      Other  
+                      </option>
+                </select>
+            </div>
+            </div>
+
+            <div class="inp">
+                <div class="input_place_name">
+                    <label for="email_at">Email<span style="color:red">*</span></label>
+                </div>
+            <div class="input_typed_text_other">
+                <input type="email" id="email_at" required>
+            </div>
+            </div>
+            
+            <div class="inp">
+                <div class="input_place_name">
+                    <label for="number_at">Number<span style="color:red">*</span></label>
+                </div>
+                <div class="input_typed_text_other">
+                    <input  placeholder="+91 98765-43210" id="number_at" type="tel" value="+91" required>
+                </div>    
+            </div>
+            <div class="inp">
+                <div class="input_place_name">
+                    <label id="address_at_lable" for="address_at">Address<span style="color:red">*</span></label>
+                </div>
+           <div class="input_typed_text_other">
+                 <input type="text" id="address_at" required>
+                </div>
+            </div>
+
+            <div id="added_link_info">
+                Not going solo?<a href="" style="color:orangered">Add other people details</a>
+            </div>
+           
+        </div>
+        <div  class="guest-information2">
+            <h3>COVID Policy</h3>
+              <a id="hid_cov"> <i class="material-icons" id="hidecov">expand_more </i></a>
+         </div>
+
+         <div id="covid_policy" class="policy_info">
+        <p> - Please ensure you have read the health and travel advisory issued by your destination state.</p>
+         <p>- This hostel follows universal hygiene guidelines and a strict sanitisation protocol. Moreover, travellers and staff regularly undergo temperature checks to curtail any health lapses.</p>
+         <p> - While most staff members stay at the hostel itself, outsider staff undergo a strict thermal check and periodic testing regime.</p>
+         <p> - Travellers are requested to sanitise their bags and any outside materials (parcels, shoes, etc.) while entering the hostel premises.</p>
+       <p>- At this hostel, we outsource meals from a trusted partner. Travellers can opt for up to three meals a day by contacting the hostel reception.</p> 
+         </div>
+
+         <div  class="guest-information2">
+            <h3>Property Policy</h3>
+            <a id="hid_prop"> <i class="material-icons" id="hideprop">expand_more </i></a>
+         </div>
+         <div id="property_policy" class="policy_info">
+            <p>- Guests are required to pay a 21% advance at the time of booking itself.</p>
+           <p>- We strictly DO NOT allow a group of more than 8 people. In case of a group of 4 or more, you might be purposefully allotted different dorm rooms. Further, if the group behaviour is deemed unfit at the property, the Zostel Property Manager, upon subjective evaluation, retains the full right to take required action which may also result in an on-spot cancellation without refunds.</p>          
+           <p>- Children below 18 years of age are not permitted entry/stay at any of our hostels, with or without guardians. We do not recommend families.</p>           
+            <p>- Our standard check-in time is 12 PM and the standard check-out time is 10 AM</p>          
+           <p>- We only accept a government ID as valid identification proof. No local IDs shall be accepted at the time of check-in.</p> 
+            <p>- Guests are not permitted to bring outsiders inside the hostel campus.</p>
+           <p>- We believe in self-help and do not provide luggage assistance or room services.</p>
+           <p>- Drugs and any substance abuse is strictly banned inside and around the property.</p>
+           <p>- Alcohol consumption is strictly prohibited in and around the property premises.</p>         
+            <P>- Right to admission reserved.</P>
+            
+            <p id="note"> </p>
+           <p style="margin-top:20px;">Important Note: According to the rules laid down by the Aurangabad police, local vehicles are not permitted to park within the hostel premises. This includes vehicles with number plates starting with ‘MH20’ & taxi passing vehicles (white letters on yellow plate). However, self-driven vehicles (yellow letters on black plate) are permitted to park.   </p> 
+        </div>
+
+         <div  class="guest-information2">
+            <h3>Cancellation Policy</h3>
+            <a id="hid_can"> <i class="material-icons" id="hidecan">expand_more </i></a>
+         </div>
+         <div id="cancellation_policy" class="policy_info">
+            <p>- Guests are required to pay a 21% advance at the time of booking itself.</p>
+           <p>- We strictly DO NOT allow a group of more than 8 people. In case of a group of 4 or more, you might be purposefully allotted different dorm rooms. Further, if the group behaviour is deemed unfit at the property, the Zostel Property Manager, upon subjective evaluation, retains the full right to take required action which may also result in an on-spot cancellation without refunds.</p>          
+           <p>- Children below 18 years of age are not permitted entry/stay at any of our hostels, with or without guardians. We do not recommend families.</p>           
+            <p>- Our standard check-in time is 12 PM and the standard check-out time is 10 AM</p>          
+           <p>- We only accept a government ID as valid identification proof. No local IDs shall be accepted at the time of check-in.</p> 
+            <p>- Guests are not permitted to bring outsiders inside the hostel campus.</p>
+           <p>- We believe in self-help and do not provide luggage assistance or room services.</p>
+           <p>- Drugs and any substance abuse is strictly banned inside and around the property.</p>
+           <p>- Alcohol consumption is strictly prohibited in and around the property premises.</p>         
+            <P>- Right to admission reserved.</P>
+            
+            <p> </p>
+           <p>Important Note: According to the rules laid down by the Aurangabad police, local vehicles are not permitted to park within the hostel premises. This includes vehicles with number plates starting with ‘MH20’ & taxi passing vehicles (white letters on yellow plate). However, self-driven vehicles (yellow letters on black plate) are permitted to park.   </p> 
+            
+        </div>
+      </div>
+      <div id="summary_box">
+
+          <div id="summary">
+                <h3>Summary</h3>
+                <div id="hotel_dec">
+                    <div><img style="height:60px;" src="https://img.cdn.zostel.com/zostel/gallery/images/0xh1a-KdRqW7CCg8cTNz6g/8-bed-mixed-dorm-20201112104616.jpg?w=64" alt=""></div>
+                    <div>
+                   <h5 id="room_name"></h5>
+                   <div id="after_img" >
+                    <p>Amount</p>   
+                    <p id="amount"> </p></div>
+                       
+                    </div>
+                </div>
+
+                <div class="payment_table"> 
+                    <p>Tax</p>
+                    <p  id = "tax"></p>
+                </div>
+                <div class="payment_table"> 
+                    <p>Total (tax incl.)</p>
+                    <p id = "taxinc"></p>
+                </div>
+                <div class="payment_table"> 
+                    <p>Payable Now</p>
+                    <p id = "payable"></p>
+                </div>
+               <div id="box_check">
+                   <input type="checkbox" required>
+                  <p>I acknowledge and accept the terms and conditions mentioned in the Property Policy & Cancellation Policy.</p> 
+               </div>
+               <div id="reserve_but"><button  onclick="payment()">Reserve</button></div>
+                
+              </div>
+            </div>
+    </div>
+        
+</div>
+        <div id="footer" style="margin-top:50px;">
+
+        </div>
+        
+</body>
+<script src="./confirm_booking.js"></script>
+<script type="module">
+    import nav from './import_header.js'
+    document.getElementById("nav").innerHTML=nav();
+</script>
+<script type="module">
+    import footer from './footer.js'
+    document.getElementById("footer").innerHTML=footer()
+</script>
+<script src="./header.js"></script>
+</html>

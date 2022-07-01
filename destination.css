@@ -1,0 +1,65 @@
+*{
+    
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+html {
+font-family: CircularStd,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+line-height: 1.5;
+-webkit-text-size-adjust: 100%;
+}
+
+/* navbar */
+
+#media_nav_head{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    /* background-color: yellow; */
+    align-items: center;
+    padding:1vh 3vh;
+    font-size: 30px;
+}
+#media_nav_head > div > img{
+    width: 80%;
+    height: 50px;
+}
+#o{
+ display: flex;
+ 
+}
+
+/* body */
+#sai{
+    display:flex;
+    flex-wrap: wrap;
+    margin-left: 3%;
+    margin-bottom: 10vh;
+}
+
+#sai>div>img{
+width: 95%;
+height: 280px;
+border-radius: 15px 15px 15px 15px;
+}
+#sai>div{
+width: 22%;
+margin:1%;
+text-align: center;
+color: white;
+
+}
+@media screen and (min-width:60px) and (max-width:630px) {
+    #sai{
+        display: grid;
+        grid-template-columns:  1fr 1fr;
+        gap: 1vw;
+        margin: auto;
+       margin-bottom: -100vh;
+    }
+    #sai>div{
+        width: 46vw;
+        margin-bottom: 3vh;
+    }
+}

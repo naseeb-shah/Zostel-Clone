@@ -1,0 +1,418 @@
+{
+   "ZostelHomes" :[
+        {
+            "Id":"50",
+            "type":"Zostel Home",
+            "Image":"https://tse1.mm.bing.net/th?id=OIP.QEmT-3kOGVRjuV6s8bKkHQHaEK&pid=Api&P=0&w=329&h=185",
+            "Name":"Manali",
+            "Description":"Chill with us at Zostel Manali amidst panoramic Himalayan views, apple orchard and a gorgeous garden cafe. Located at the unbeatable location of Old Manali, our backpacker hostel is an ideal place to laze around with other backpackers.",
+            "stays":[
+                {
+                    "staysName":"Zostel Manali",
+                    "staysImage":"https://tse1.mm.bing.net/th?id=OIP.tdrhhjCJE9Cc2xuGmQ2fzQHaF7&pid=Api&P=0&w=197&h=157",
+                    "staysDescription":"Chill with us at Zostel Manali amidst panoramic Himalayan views, apple orchard and a gorgeous garden cafe. Located at the unbeatable location of Old Manali, our backpacker hostel is an ideal place to laze around with other backpackers.",
+                    "rate":"699"
+                },
+                {
+                    "staysName":"Zostel Vashisht",
+                    "staysImage":"https://tse1.mm.bing.net/th?id=OIP.ubXdL1TNCd8QQ2yOlSXifQHaFA&pid=Api&P=0&w=234&h=158",
+                    "staysDescription":"A refreshing escape awaits you at Zostel Vashisht, our swanky new backpacking hostel near Manali. Enjoy uninterrupted views of snow-capped mountains, hearty cafe food, hip common areas, and unique attic dorms at our chic hostel in Himachal Pradesh.",
+                    "rate":"599"
+                },
+                {
+                    "staysName":"Zostel Dobhi",
+                    "staysImage":"https://tse4.mm.bing.net/th?id=OIP.q6pcY3_Ol20mP3GJljOqrgHaEu&pid=Api&P=0&w=247&h=157",
+                    "staysDescription":"Explore the offbeat Fojal valley of Himachal Pradesh with Zostel Dobhi, a serene yet lively backpacking hostel located upon a ridge, overlooking a stream, featuring an in-house restaurant, indoor workation areas, common rooms, and a bonfire area.",
+                    "rate":"649"
+                },
+                {
+                    "staysName":"Zostel Homes Burwa",
+                    "staysImage":"https://tse3.mm.bing.net/th?id=OIP.0D3EDv2tQ7zCGZIvOwOztQHaEK&pid=Api&P=0&w=312&h=175",
+                    "staysDescription":"Stay with us in Manali at an offbeat location away from crowds in a peaceful, premium homestay. Enjoy the warm hospitality and activities and live the simple, rural life with the locals!.",
+                    "rate":"699"
+                },
+                {
+                    "staysName":"GlampEco",
+                    "staysImage":"https://tse3.mm.bing.net/th?id=OIP.X-kwTOk8Zad1w90B4V4vqQHaEK&pid=Api&P=0&w=322&h=180",
+                    "staysDescription":"For the first time in India, you can experience a stay in Geodesic Domes Glamping tents which are perched at a height of over 2600 mt, with a splendid view of Dhauldhar ranges and Manali valley.",
+                    "rate":"700"
+                }
+            ]
+        },
+        {
+            "Id":"51",
+            "type":"Zostel Home",
+            "Image":"https://tse1.mm.bing.net/th?id=OIP.3jJIBL86RXUXZefCliI2ygHaE5&pid=Api&P=0&w=281&h=186",
+            "Name":"Fagu",
+            "Description":"Chill with us at Zostel Manali amidst panoramic Himalayan views, apple orchard and a gorgeous garden cafe. Located at the unbeatable location of Old Manali, our backpacker hostel is an ideal place to laze around with other backpackers.",
+            "stays":[
+                {
+                    "staysName":"Zostel Homes Cheog",
+                    "staysImage":"https://tse3.mm.bing.net/th?id=OIP.cwGs2DRlbvx6m6f2IG0a_wHaE8&pid=Api&P=0&w=229&h=153",
+                    "staysDescription":"Stay with us in Cheog (Near Fagu, Shimla), an offbeat location away from crowds in a peaceful, premium homestay. Enjoy the warm hospitality and activities and live the simple, rural life with the locals!",
+                    "rate":"2999"
+                }
+            ]
+        },
+        {
+            "Id":"52",
+            "type":"Zostel Home",
+            "Image":"https://tse1.mm.bing.net/th?id=OIP.BgPV2SWBMfAoc844S1B0ogHaFj&pid=Api&P=0&w=212&h=158",
+            "Name":"Coorg",
+            "Description":"Stay in the lap of nature at Zostel Coorg - a backpacker hostel that allows you to mingle with fellow travelers over coffee, bonfires & hikes.",
+            "stays":[
+                {
+                    "staysName":"Zostel Homes Cheog",
+                    "staysImage":"https://tse2.mm.bing.net/th?id=OIP.BW-lwDFZ4jt4EYZ5E3Q8XAHaDt&pid=Api&P=0&w=345&h=172",
+                    "staysDescription":"Stay in the lap of nature at Zostel Coorg - a backpacker hostel that allows you to mingle with fellow travelers over coffee, bonfires & hikes.",
+                    "rate":"599"
+                },
+                {
+                    "staysName":"Zostel Homes Coorg",
+                    "staysImage":"https://tse3.mm.bing.net/th?id=OIP.CKSbKqN0EXx9iw3GLQXTuwHaF7&pid=Api&P=0&w=227&h=182",
+                    "staysDescription":"Stay with us in Coorg at an offbeat location away from crowds in a peaceful, premium homestay. Enjoy the warm hospitality and activities and live the simple, rural life with the locals!",
+                    "rate":"899"
+                },
+                {
+                    "staysName":"Zostel Mysore",
+                    "staysImage":"https://tse2.mm.bing.net/th?id=OIP.x-G_88q0G8Nj63dCH9ILZQHaDl&pid=Api&P=0&w=366&h=176",
+                    "staysDescription":"Stay with us in Gokulam - the most central location for any traveller in the yoga hub of Mysuru. Enjoy the yoga retreat with backpackers from around the world at our cosy hostel, Zostel Mysore.",
+                    "rate":"499"
+                }
+            ]
+        },
+        {
+            "Id":"53",
+            "type":"Zostel Home",
+            "Image":"https://tse2.mm.bing.net/th?id=OIP.TqRc4AQUlvife3CFZ7CL6QHaE7&pid=Api&P=0&w=255&h=170",
+            "Name":"Spiti",
+            "Description":"Discover Spiti with Asia's highest backpacker hostel - Zostel Spiti. Top ranked by guests, Zostel Spiti fosters new friendships and helps you explore the majestic Spiti on a budget.",
+            "stays":[
+                {
+                    "staysName":"Zostel Spiti",
+                    "staysImage":"https://tse1.mm.bing.net/th?id=OIP.j46DtWsXdXw9If213OQKeQHaF7&pid=Api&P=0&w=214&h=171",
+                    "staysDescription":"Discover Spiti with Asia's highest backpacker hostel - Zostel Spiti. Top ranked by guests, Zostel Spiti fosters new friendships and helps you explore the majestic Spiti on a budget.",
+                    "rate":"649"
+                },
+                {
+                    "staysName":"Zostel Homes Kibber",
+                    "staysImage":"https://tse1.mm.bing.net/th?id=OIP.4iYuhLLMOMU0fpxL417dJQHaF7&pid=Api&P=0&w=194&h=155",
+                    "staysDescription":"Zostel Homes Kibber (Spiti or Kaza) is set in Kibber and offers a shared lounge, a garden and a terrace. This homestay offers accommodation with a balcony.",
+                    "rate":"2999"
+                },
+                {
+                    "staysName":"Zostel Homes Tabo",
+                    "staysImage":"https://tse2.mm.bing.net/th?id=OIP.L0cHAszLetUBR1BZiHxtQgHaF7&pid=Api&P=0&w=194&h=155",
+                    "staysDescription":"Zostel Homes Tabo (Spiti) is located in Tabo and offers a shared lounge and a terrace. With mountain views, this accommodation provides a balcony.",
+                    "rate":"2499"
+                }
+            ]
+        },
+        {
+            "Id":"54",
+            "type":"Zostel Home",
+            "Image":"https://tse1.mm.bing.net/th?id=OIP.1pkDAgZzt_ujkMC9eCksFQHaFj&pid=Api&P=0&w=205&h=154",
+            "Name":"Narkanda",
+            "Description":"a",
+            "stays":[
+                {
+                    "staysName":"Zostel Homes Kotgarh",
+                    "staysImage":"https://tse3.mm.bing.net/th?id=OIP.WE72gQtbgJP_qfYvp5yM-AHaE8&pid=Api&P=0&w=237&h=158",
+                    "staysDescription":"Stay with us in Kotgarh (Near Narkanda), an offbeat location away from crowds in a peaceful, premium homestay. Enjoy the warm hospitality and activities and live the simple, rural life with the locals!",
+                    "rate":"3999"
+                }
+            ]
+        },
+
+{
+            "Id":"55",
+            "type":"Zostel Home",
+            "Image":"https://tse2.mm.bing.net/th?id=OIP.m1X6qfn89s5mw9vK1F9JzgHaE8&pid=Api&P=0&w=240&h=160",
+            "Name":"Kotkhai",
+            "Description":"Located in Shimla in the Himachal Pradesh region, Zostel Homes Kotkhai (Shimla) provides accommodation with free private parking. There is a shared lounge at this property and guests can go hiking nearby.",
+            "stays":[
+                {
+                    "staysName":"Zostel Homes Kotkhai",
+                    "staysImage":"https://tse2.mm.bing.net/th?id=OIP.xiJ3x8ZllpOUTkizCOhCCQAAAA&pid=Api&P=0&w=188&h=125",
+                    "staysDescription":"Located in Shimla in the Himachal Pradesh region, Zostel Homes Kotkhai (Shimla) provides accommodation with free private parking. There is a shared lounge at this property and guests can go hiking nearby.",
+                    "rate":"2999"
+                }
+            ]
+        },
+        {
+            "Id":"56",
+            "type":"Zostel Home",
+            "Image":"https://tse4.mm.bing.net/th?id=OIP.R3A5k_fPq5wx2x0oNkt7GgHaE8&pid=Api&P=0&w=242&h=161",
+            "Name":"Jibhi",
+            "Description":"a",
+            "stays":[
+                {
+                    "staysName":"Zostel Homes Laida",
+                    "staysImage":"https://tse3.mm.bing.net/th?id=OIP.XF0oS8_P69IduU7RyylrKgHaF7&pid=Api&P=0&w=194&h=155",
+                    "staysDescription":"Stay with us in Cheog (Near Jibhi), an offbeat location away from crowds in a peaceful, premium homestay. Enjoy the warm hospitality and activities and live the simple, rural life with the locals!",
+                    "rate":"1999"
+                }
+            ]
+        },
+        {
+            "Id":"57",
+            "type":"Zostel Home",
+            "Image":"https://tse4.mm.bing.net/th?id=OIP.i9o6HDo7IYvkLzUsoCziKAHaED&pid=Api&P=0&w=289&h=158",
+            "Name":"Mashobra",
+            "Description":"Set in Mashobra in the Himachal Pradesh Region, 16 km from Shimla, Tranquil Countryside Homes boasts a terrace and views of the mountains. There is a games room on site and guests can enjoy the on-site restaurant.",
+            "stays":[
+                {
+                    "staysName":"Zostel Homes Mashobra",
+                    "staysImage":"https://tse3.mm.bing.net/th?id=OIP.7hRi-KS-5v_Lp7JddOLcXQHaF7&pid=Api&P=0&w=198&h=159",
+                    "staysDescription":"Set in Mashobra in the Himachal Pradesh Region, 16 km from Shimla, Tranquil Countryside Homes boasts a terrace and views of the mountains. There is a games room on site and guests can enjoy the on-site restaurant.",
+                    "rate":"2999"
+                }
+            ]
+        },
+        {
+            "Id":"58",
+            "type":"Zostel Home",
+            "Image":"https://tse3.mm.bing.net/th?id=OIP.ZxsjvEIV7QGj5kvnP9J5-gHaE6&pid=Api&P=0&w=261&h=173",
+            "Name":"Pushkar",
+            "Description":"Stay at Zostel Pushkar, a traveller and digital nomad friendly backpacking hostel in Pushkar with a swimming pool, cafe, workstations, indoor games, and rooftop with a view of the Aravali hills.",
+            "stays":[
+                {
+                    "staysName":"Zostel Pushkar",
+                    "staysImage":"  https://tse2.mm.bing.net/th?id=OIP.F1ATw9nH1-1r0-9lks667wHaF7&pid=Api&P=0&w=222&h=178",
+                    "staysDescription":"Stay at Zostel Pushkar, a traveller and digital nomad friendly backpacking hostel in Pushkar with a swimming pool, cafe, workstations, indoor games, and rooftop with a view of the Aravali hills.",
+                    "rate":"399"
+                },
+                {
+                    "staysName":"Zostel Homes Pushkar",
+                    "staysImage":"https://tse2.mm.bing.net/th?id=OIP.iCpFlnuOewj_Al8VgzrwFwHaF7&pid=Api&P=0&w=222&h=178",
+                    "staysDescription":"Zostel Homes Pushkar in Pushkar offers accommodation with free WiFi, 7 km from Varaha Temple, 7 km from Brahma Temple and 7 km from Pushkar Lake. Situated 6 km from Pushkar Fort, the property features a garden and free private parking.",
+                    "rate":"1799"
+                }
+            ]
+        },
+        {
+            "Id":"59",
+            "type":"Zostel Home",
+            "Image":"https://tse1.mm.bing.net/th?id=OIP.nDhecuO6aE9dcPoNo-_ZnQHaEy&pid=Api&P=0&w=276&h=178",
+            "Name":"Rakhcham",
+            "Description":"Zostel Homes Rakchham (Chitkul) is situated in Saturang and offers a garden and a terrace. Guests have a private balcony.",
+            "stays":[
+                {
+                    "staysName":"Zostel Homes Rakchham",
+                    "staysImage":"https://tse4.explicit.bing.net/th?id=OIP.G88FdFQRoKvLu8kelM095QHaF7&pid=Api&P=0&w=224&h=179",
+                    "staysDescription":"Zostel Homes Rakchham (Chitkul) is situated in Saturang and offers a garden and a terrace. Guests have a private balcony.",
+                    "rate":"2999"
+                },
+                {
+                    "staysName":"Zostel Sangla",
+                    "staysImage":"https://tse3.mm.bing.net/th?id=OIP.To5TS4dyxddg7HSCgTg-pwHaF7&pid=Api&P=0&w=194&h=155",
+                    "staysDescription":"Zostel Sangla is an offbeat and social backpacker hostel in Sangla village, Himachal Pradesh. Enjoy our in-house cafe, common room activities, panoramic views, and more.",
+                    "rate":"699"
+                },
+                {
+                    "staysName":"Zostel Chitkul",
+                    "staysImage":"https://tse1.mm.bing.net/th?id=OIP.QDi4Xs0E4OfFw36jT5I05wHaDL&pid=Api&P=0&w=375&h=161",
+                    "staysDescription":"Stay at Zostel Chitkul - the last traveller hostel on Indo-Tibet border with panoramic views of the Himalayas.",
+                    "rate":"699"
+                }
+            ]
+        },
+        {
+            "Id":"60",
+            "type":"Zostel Home",
+            "Image":"https://tse1.mm.bing.net/th?id=OIP.mx8Gkf7hWB-Z4cEweHki4gHaEM&pid=Api&P=0&w=272&h=154",
+            "Name":"Ramgadh",
+            "Description":"Zostel Home Ramgarh is your laid-back luxury escape in a quaint Uttarakhand hill station, only 6-7 hours from Delhi.",
+            "stays":[
+                {
+                    "staysName":"Zostel Homes Ramgarh (Nainital)",
+                    "staysImage":"https://tse1.mm.bing.net/th?id=OIP.CUmx7NHROXVCSLzNFZM6owHaF7&pid=Api&P=0&w=195&h=156",
+                    "staysDescription":"Zostel Home Ramgarh is your laid-back luxury escape in a quaint Uttarakhand hill station, only 6-7 hours from Delhi.",
+                    "rate":"2999"
+                },
+                {
+                    "staysName":"Zostel Mukteshwar",
+                    "staysImage":"https://tse4.mm.bing.net/th?id=OIP.MHNdmJmLSTatre5aS3QbjQHaEK&pid=Api&P=0&w=280&h=157",
+                    "staysDescription":"A cosy, peaceful backpacker hostel in the mountains of Uttarakhand - 1.5 hrs from lake town of Nainital. Situated in a secluded area with lush natural scenery and mountain views, Zostel Mukteshwar is an ideal chilling destination for the young d",
+                    "rate":"499"
+                }
+            ]
+        },
+        {
+            "Id":"61",
+            "type":"Zostel Home",
+            "Image":"https://tse1.mm.bing.net/th?id=OIP.drQJG0OhiSEtvADh9q6JoAHaFj&pid=Api&P=0&w=247&h=185",
+            "Name":"Naggar",
+            "Description":"a",
+            "stays":[
+                {
+                    "staysName":"Zostel Sissu",
+                    "staysImage":"https://tse1.mm.bing.net/th?id=OIP.vInrHVmTdra_PQ2j5oA_bwHaF7&pid=Api&P=0&w=194&h=155",
+                    "staysDescription":"Experience Himachal's offbeat Lahaul region through Zostel Sissu, a brilliantly located backpacker hostel with majestic views, vibrant common areas, outdoor games, and spacious rooms.",
+                    "rate":"699"
+                },
+                {
+                    "staysName":"Zostel Homes Rashil",
+                    "staysImage":"https://tse3.mm.bing.net/th?id=OIP.Nj7JlBaPBB1GmL3n0FwCqgHaEb&pid=Api&P=0&w=300&h=300",
+                    "staysDescription":"Rashil is, quite literally, a quaint old village on the top of a hill, by a flowing river, and overlooking the snow-clad Himalayas. The magical setting is made dreamier with brilliant sunset skies & the sight of the milky way at midnight.",
+                    "rate":"649"
+                }
+            ]
+        },
+        {
+            "Id":"62",
+            "type":"Zostel Home",
+            "Image":"https://tse4.mm.bing.net/th?id=OIP.CGcO6oMjLywGlFMeneuXpQHaEK&pid=Api&P=0&w=287&h=161",
+            "Name":"Tabo",
+            "Description":"Zostel Homes Tabo (Spiti) is located in Tabo and offers a shared lounge and a terrace. With mountain views, this accommodation provides a balcony.",
+            "stays":[
+                {
+                    "staysName":"Zostel Dobhi",
+                    "staysImage":"https://tse1.mm.bing.net/th?id=OIP.X8BF7x1q8S-UFdjG3-uMyQHaDL&pid=Api&P=0&w=375&h=161",
+                    "staysDescription":"Explore the offbeat Fojal valley of Himachal Pradesh with Zostel Dobhi, a serene yet lively backpacking hostel located upon a ridge, overlooking a stream, featuring an in-house restaurant, indoor workation areas, common rooms, and a bonfire area.",
+                    "rate":"649"
+                },
+                {
+                    "staysName":"Zostel Homes Rumsu",
+                    "staysImage":"https://tse1.mm.bing.net/th?id=OIP.THlg86ahP51neVF7MxkhCAHaF7&pid=Api&P=0&w=194&h=155",
+                    "staysDescription":"Stay with us in Rumsu (Near Naggar), an offbeat location away from crowds in a peaceful, premium homestay. Enjoy the warm hospitality and activities and live the simple, rural life with the locals!",
+                    "rate":"2499"
+                }
+            ]
+        },
+        {
+            "Id":"62",
+            "type":"Zostel Home",
+            "Image":"https://tse2.mm.bing.net/th?id=OIP.wOg2bobQZlttCXaCRxM2vwHaEK&pid=Api&P=0&w=272&h=153",
+            "Name":"Theog",
+            "Description":"a",
+            "stays":[
+                {
+                    "staysName":"Zostel Homes Tabo",
+                    "staysImage":"https://tse2.mm.bing.net/th?id=OIP.vNCpbarBSeMmgWS2cMIjtQHaF7&pid=Api&P=0&w=194&h=155",
+                    "staysDescription":"Zostel Homes Tabo (Spiti) is located in Tabo and offers a shared lounge and a terrace. With mountain views, this accommodation provides a balcony.",
+                    "rate":"2499"
+                }
+            ]
+        },
+        
+{
+            "Id":"63",
+            "type":"Zostel Home",
+            "Image":"https://tse2.mm.bing.net/th?id=OIP.I_fP6iL0foCAZQPaBMhg3QHaE7&pid=Api&P=0&w=243&h=161",
+            "Name":"Wayanand",
+            "Description":"Zostel Wayanad is a quaint backpacking hostel located amidst sprawling tea plantations right at the base of the famous Chembra Peak. We offer an ideal setting for the young social travellers and digital nomads to explore Wayanad.",
+            "stays":[
+                {
+                    "staysName":"Zostel Homes Theog",
+                    "staysImage":"https://tse1.mm.bing.net/th?id=OIP.52RuitFnU_Ni-dVaUTdXNgAAAA&pid=Api&P=0&w=259&h=172",
+                    "staysDescription":"Set in Shimla in the Himachal Pradesh region, Zostel Homes Theog (Shimla) offers accommodation with free private parking. A buffet breakfast is available every morning at the homestay. Guests can also relax in the shared lounge area.",
+                    "rate":"2799"
+                }
+            ]
+        },
+        {
+            "Id":"64",
+            "type":"Zostel Plus",
+            "Image":"https://tse4.mm.bing.net/th?id=OIP.WpYjwb_Xe6n2zkIb74_rbgHaFj&pid=Api&P=0&w=253&h=190",
+            "Name":"Bir",
+            "Description":"Zostel Plus Bir in Bīr provides adults-only accommodation with a restaurant, a shared lounge and a garden.",
+            "stays":[
+                {
+                    "staysName":"Zostel Wayanad",
+                    "staysImage":"https://tse1.mm.bing.net/th?id=OIP.mwb5R28UBRlJJyPSlqoKSgHaDL&pid=Api&P=0&w=364&h=156",
+                    "staysDescription":"Zostel Wayanad is a quaint backpacking hostel located amidst sprawling tea plantations right at the base of the famous Chembra Peak. We offer an ideal setting for the young social travellers and digital nomads to explore Wayanad.",
+                    "rate":"899"
+                },
+                {
+                    "staysName":"Zostel Homes Wayanad (Vythiri)",
+                    "staysImage":"https://tse4.mm.bing.net/th?id=OIP.jV_x27ODcPlnYHChrUWPogHaEK&pid=Api&P=0&w=338&h=189",
+                    "staysDescription":"A luxe villa nestled in 1000 acres of a private estate, with plush private rooms, natural bathrooms, and exclusive access to nearby waterfalls, hiking trails, and more. This villa is bookable only on a full-house basis.",
+                    "rate":"1499"
+                },
+                {
+                    "staysName":"Zostel Homes Wayanad (Karapuzha)",
+                    "staysImage":"https://tse1.mm.bing.net/th?id=OIP.OTLQ6KfySFVTeA_yEojCpQHaE7&pid=Api&P=0&w=276&h=184",
+                    "staysDescription":"Located on the banks of the laidback Karapuzha dam, this homestay is perfect for a close-knit rendezvous with the goodness of nature. It features vast balconies, a verdant lawn and bonfire area, indoor games, and hill views with a charming sunset.",
+                    "rate":"3199"
+                },
+                {
+                    "staysName":"Zostel Homes Wayanad (Thirunelly)",
+                    "staysImage":"https://tse1.mm.bing.net/th?id=OIP.2GFjCzGQe8rhMGSVJHJK1QHaE7&pid=Api&P=0&w=233&h=155",
+                    "staysDescription":"Located in Thirunelly, Zostel Homes Wayanad offers a unique stay experience, brimming with unimaginable greenery and wilderness all around.",
+                    "rate":"2799"
+                }
+            ]
+        },
+        {
+            "Id":"64",
+            "type":"Zostel Plus",
+            "Image":"https://tse4.mm.bing.net/th?id=OIP.WpYjwb_Xe6n2zkIb74_rbgHaFj&pid=Api&P=0&w=253&h=190",
+            "Name":"Bir",
+            "Description":"Zostel Plus Bir in Bīr provides adults-only accommodation with a restaurant, a shared lounge and a garden.",
+            "stays":[
+                {
+                    "staysName":"Zostel Wayanad",
+                    "staysImage":"https://tse1.mm.bing.net/th?id=OIP.mwb5R28UBRlJJyPSlqoKSgHaDL&pid=Api&P=0&w=364&h=156",
+                    "staysDescription":"Zostel Wayanad is a quaint backpacking hostel located amidst sprawling tea plantations right at the base of the famous Chembra Peak. We offer an ideal setting for the young social travellers and digital nomads to explore Wayanad.",
+                    "rate":"899"
+                },
+                {
+                    "staysName":"Zostel Homes Wayanad (Vythiri)",
+                    "staysImage":"https://tse4.mm.bing.net/th?id=OIP.jV_x27ODcPlnYHChrUWPogHaEK&pid=Api&P=0&w=338&h=189",
+                    "staysDescription":"A luxe villa nestled in 1000 acres of a private estate, with plush private rooms, natural bathrooms, and exclusive access to nearby waterfalls, hiking trails, and more. This villa is bookable only on a full-house basis.",
+                    "rate":"1499"
+                },
+                {
+                    "staysName":"Zostel Homes Wayanad (Karapuzha)",
+                    "staysImage":"https://tse1.mm.bing.net/th?id=OIP.OTLQ6KfySFVTeA_yEojCpQHaE7&pid=Api&P=0&w=276&h=184",
+                    "staysDescription":"Located on the banks of the laidback Karapuzha dam, this homestay is perfect for a close-knit rendezvous with the goodness of nature. It features vast balconies, a verdant lawn and bonfire area, indoor games, and hill views with a charming sunset.",
+                    "rate":"3199"
+                },
+                {
+                    "staysName":"Zostel Homes Wayanad (Thirunelly)",
+                    "staysImage":"https://tse1.mm.bing.net/th?id=OIP.2GFjCzGQe8rhMGSVJHJK1QHaE7&pid=Api&P=0&w=233&h=155",
+                    "staysDescription":"Located in Thirunelly, Zostel Homes Wayanad offers a unique stay experience, brimming with unimaginable greenery and wilderness all around.",
+                    "rate":"2799"
+                }
+            ]
+        },
+        {
+            "Id":"65",
+            "type":"Zostel Plus",
+            "Image":"https://tse2.mm.bing.net/th?id=OIP.msVgAN2MKinP0XRIYOz0HAHaF7&pid=Api&P=0&w=192&h=153",
+            "Name":"Bir",
+            "Description":"Zostel Plus Bir in Bīr provides adults-only accommodation with a restaurant, a shared lounge and a garden.",
+            "stays":[
+                {
+                    "staysName":"Zostel Plus Bir",
+                    "staysImage":"https://tse3.mm.bing.net/th?id=OIP.EI0wsmkQQzwgYMFn-9zD7wHaF7&pid=Api&P=0&w=192&h=153",
+                    "staysDescription":"Zostel Plus Bir in Bīr provides adults-only accommodation with a restaurant, a shared lounge and a garden.",
+                    "rate":"799"
+                },
+                {
+                    "staysName":"Zostel Barot (Rajgundha)",
+                    "staysImage":"https://tse1.mm.bing.net/th?id=OIP.5JRpG4rItJo0oJi3q4uA0AHaE7&pid=Api&P=0&w=250&h=166",
+                    "staysDescription":"Zostel Barot (Rajgundha) in Kangra provides adults-only accommodation with a shared lounge and a garden. Private parking can be arranged at an extra charge.",
+                    "rate":"699"
+                }
+            ]
+        },
+        {
+            
+            "Id":"66",
+            "type":"Zostel Plus",
+            "Image":"https://tse2.mm.bing.net/th?id=OIP.msVgAN2MKinP0XRIYOz0HAHaF7&pid=Api&P=0&w=192&h=153",
+            "Name":"Bir",
+            "Description":"Zostel Plus Bir in Bīr provides adults-only accommodation with a restaurant, a shared lounge and a garden.",
+            "stays":[
+                {
+                    "staysName":"Zostel Plus Lonavala",
+                    "staysImage":"https://tse3.mm.bing.net/th?id=OIF.riheP1eGJhC20yLk6wRlPg&pid=Api&P=0&w=300&h=300",
+                    "staysDescription":"Zostel Plus Lonavala is a luxury stay in Lonavala, featuring jacuzzi cottages with lake view, a swimming pool and game rooms, a cafe, and swanky common areas to unwind and party.",
+                    "rate":"899"
+                }
+            ]
+        }
+    ]
+}

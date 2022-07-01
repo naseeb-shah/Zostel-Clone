@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loading..</title>
+    <style>
+ 
+
+        #c>div{
+    width: 100%;
+   
+
+}
+#c>div>img{
+    width: 100%;
+    height: 650px;
+}
+/* #sai>div>h1{
+    position: absolute;
+    margin-top: 0px;
+} */
+#c>div{
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+h1 {
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 70px;
+}
+    </style>
+</head>
+<body>
+    
+
+
+    <div>
+        <div id="c">
+            
+        </div>
+    </div>
+</body>
+<script>
+    index = localStorage.getItem('index')
+    async function sai(){
+
+try{
+await fetch(`http://localhost:3000/sai/`)
+.then((x)=> x.json())
+.then((y)=>display(y[index]))
+
+}catch(err){
+    console.log(err)
+}
+console.log(index)
+}
+    sai()
+
+function display(data){
+    // data.forEach(e => {
+        var div= document.createElement('div')
+        div.innerHTML=`
+                 <img src="${data.posterUrl}">
+                 <h1>${data.name}</h1>
+             </div>
+     `
+     
+    //  div.addEventListener("click",()=>{
+    //      window.location.href=`http://localhost:3000/sai/${e.id}`
+    //  })
+        document.getElementById("c").append(div)
+        
+    // });
+    newTitle = `${data.name}`;
+     document.title = newTitle;
+}
+
+
+
+</script>
+</html>

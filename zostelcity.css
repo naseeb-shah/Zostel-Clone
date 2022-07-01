@@ -1,0 +1,186 @@
+.cityImage {
+  width: 100%;
+}
+
+.cityNameOverImage {
+  position: absolute;
+  bottom: 300px;
+  left: 550px;
+  z-index: 0;
+  font-size: 3rem;
+  text-shadow: 0 0 3px rgb(0 0 0 / 30%);
+  font-weight: 700;
+  --text-opacity: 1;
+  color: #fff;
+  color: rgba(255, 255, 255, var(--text-opacity));
+}
+
+#cityDesc > h3 {
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  font-size: 2.25rem;
+  font-weight: 700px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#cityDesc > .cityName {
+  text-align: center;
+  --text-opacity: 1;
+  color: #f15824;
+  color: rgba(241, 88, 36, var(--text-opacity));
+  margin-bottom: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#cityDesc > .about {
+  --text-opacity: 1;
+  color: #4d585b;
+  color: rgba(77, 88, 91, var(--text-opacity));
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 22px;
+  font-weight: 600;
+  margin-bottom: 25px;
+}
+
+#cityDesc > #desc {
+  text-align: justify;
+  font-family: Arial, Helvetica, sans-serif;
+  --text-opacity: 1;
+  color: #4d585b;
+  color: rgba(77, 88, 91, var(--text-opacity));
+  width: 70%;
+  margin: auto;
+  text-align: justify;
+  margin-bottom: 60px;
+}
+
+#cityDesc > h2 > .cityName1 {
+  text-align: center;
+  --text-opacity: 1;
+  color: #f15824;
+  color: rgba(241, 88, 36, var(--text-opacity));
+  margin-bottom: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 28px;
+}
+
+#cityDesc > h2 {
+  font-size: 28px;
+  text-align: center;
+}
+
+/* stays around data */
+
+#stays {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  height: auto;
+  margin: auto;
+  margin-top: 30px;
+}
+
+#stays > div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 40px;
+}
+
+.imageDiv {
+  width: 700px;
+  height: 380px;
+}
+.imageDiv > img {
+  width: 100%;
+  height: 100%;
+  border-radius: 8px;
+  position: relative;
+}
+
+.descDiv {
+  width: 50%;
+  --bg-opacity: 1;
+  background-color: #fafeff;
+  background-color: rgba(250, 254, 255, var(--bg-opacity));
+  border-radius: 6px;
+  box-shadow: 0 4px 6px -1px rgb(0 0 0 / 10%), 0 2px 4px -1px rgb(0 0 0 / 6%);
+  position: relative;
+  z-index: 1;
+  height: 280px;
+  padding: 20px;
+  margin-left: -35px;
+}
+
+/* descDiv */
+
+.rateBtn {
+  display: flex;
+  justify-content: space-between;
+}
+
+.type {
+  font-size: 0.875rem;
+  --text-opacity: 1;
+  color: #96a4a9;
+  color: rgba(150, 164, 169, var(--text-opacity));
+  font-weight: 600;
+  letter-spacing: 0.025em;
+  margin-bottom: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.stayName {
+  --text-opacity: 1;
+  color: #0a181d;
+  color: rgba(10, 24, 29, var(--text-opacity));
+  font-size: 1.5rem;
+  font-weight: 700;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 15px;
+}
+.stayDesc {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+  --text-opacity: 1;
+  color: #4d585b;
+  color: rgba(77, 88, 91, var(--text-opacity));
+}
+
+.stayPrice {
+  font-size: 1.25rem;
+  font-weight: 500;
+  --text-opacity: 1;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #0a181d;
+  color: rgba(10, 24, 29, var(--text-opacity));
+}
+.rateBtn {
+  margin-top: 4rem;
+}
+
+.descDiv button {
+  --bg-opacity: 1;
+  background-color: #f15824;
+  background-color: rgba(241, 88, 36, var(--bg-opacity));
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  --text-opacity: 1;
+  color: #fff;
+  color: rgba(255, 255, 255, var(--text-opacity));
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1;
+  cursor: pointer;
+  padding: 12px 23px;
+  box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px,
+    rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+}
+.descDiv button:hover {
+  --bg-opacity: 0;
+  background-color: #fff;
+  background-color: rgba(241, 88, 36, var(--bg-opacity));
+  color: #f15824;
+}

@@ -1,0 +1,161 @@
+body {
+  margin: 0;
+}
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+.footer {
+  font-size: 1vw;
+  background: #2D3748;
+  height: auto;
+  /* margin-top: 125vh; */
+  padding: 30px;
+  /* position:relative;
+  bottom:0;
+  left:0; */
+}
+.footer-section .desc {
+  color: rgba(247, 250, 252, var(--text-opacity));
+  letter-spacing: 0.025em;
+  width: 25%;
+  --text-opacity: 1;
+  margin-top: -40vh;
+}
+.footer-section {
+  width: 100%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer-section .links h3 {
+  color: #fff;
+  margin-left: 60px;
+  margin-bottom: 20px;
+}
+.footer-section .links .In-link li {
+  list-style: none;
+  margin-bottom: 15px;
+  margin-right: 20px;
+}
+.footer-section .links .In-link li a {
+  color: #fff;
+  text-decoration: none;
+}
+.footer-section .links .In-link li:hover {
+  text-decoration: underline;
+}
+.In-link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.links {
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+}
+.one {
+  color: #fff;
+  margin-top: 30px;
+}
+.social-links {
+  width: 30%;
+  margin-bottom: 120px;
+  margin-left: 50px;
+}
+#social-logo {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-left: 20px;
+}
+#social-logo img {
+  width: 30px;
+  height: 30px;
+  margin-right: 25px;
+}
+small {
+  margin-left: 35px;
+}
+#croppedImage {
+  margin-top: 30vh;
+  margin-bottom: 3vh;
+}
+@media all and (min-width: 86px) and (max-width: 630px) {
+  .footer {
+    background: #2D3748;
+
+    background: #2d3748;
+    height: auto;
+    width: auto;
+    padding: 24px;
+    margin-top: 105vh;
+  }
+  .footer-section {
+    width: 100%;
+    height: auto;
+    margin: auto;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .In-link {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    margin-left: -55vw;
+    margin-top: 20px;
+  }
+  .In-link > ul {
+    margin-bottom: 20px;
+  }
+  .footer-section .desc,
+  .social-links,
+  .links {
+    width: 100%;
+  }
+  .footer-section .desc {
+    font-size: 18px;
+  }
+  .footer-section .links ul li {
+    font-size: 22px;
+    text-align: left;
+  }
+  .two {
+    margin-left: 50px;
+  }
+  .footer-section .links h3 {
+    color: #fff;
+    margin-left: 0;
+  }
+  #social-logo,
+  small {
+    margin-left: 0;
+    text-align: center;
+  }
+  .one {
+    margin-left: -20px;
+  }
+  small {
+    margin-left: 70px;
+  }
+  .links {
+    margin-top: 30px;
+  }
+  #croppedImage {
+    margin-top: 40vh;
+    margin-bottom: 3vh;
+  }
+  #linksh3{
+    font-size: 3vw;
+  }
+  #social_links_h3{
+    font-size: 3vw;
+  }
+  .one{
+    font-size: 3vw;
+  }
+}

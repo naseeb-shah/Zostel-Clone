@@ -1,0 +1,1096 @@
+{
+    "cities": [{
+            "id": 1,
+            "type": "Zostel",
+            "Image": "http://kunstravnen.dk/wp-content/uploads/sites/369/2018/06/2-2-768x512.jpeg",
+            "Name": "Zostel Aurangabad",
+            "Description": "The old forts, age-old eateries, and museums narrate their own tales. The distinctive scent of naan qualia tingles both your nose and taste buds. And with gorgeous sunsets over the sky like a giant painting, Aurangabad breaks all stereotypes one wonder at a time. Welcome to a city with rich heritage, stupendous monuments, and world-famous caves.",
+            "stays": [{
+                "staysName": "Zostel Aurangabad",
+                "staysImage": "https://img.cdn.zostel.com/zostel/gallery/images/7x147f3PQmOuOrb_o1ez1A/zostel-aurangabad-20201105103524.jpg?w=1280",
+                "staysDescription": "Stay with us at Zostel Aurangabad, the only backpacker hostel of Aurangabad. Centrally-located, fun, social and affordable place to hang out with travellers from around the world.",
+                "rate": 499
+
+            }],
+
+
+        "roomDetails":[
+            {
+
+            "code":"ARNH184",
+            "images":["https://img.cdn.zostel.com/zostel/gallery/images/7x147f3PQmOuOrb_o1ez1A/zostel-aurangabad-20201105103524.jpg?w=1280","https://img.cdn.zostel.com/zostel/gallery/images/Naz8nD7YTcKKFgmtJcBbHg/zostel-aurangabad-tv-area-20201105103528.jpg?w=1280","https://img.cdn.zostel.com/zostel/gallery/images/-UQ1AE23QtGdJj1MyJ9NyQ/zostel-aurangabad-alley-20201105103530.jpg?w=1280","https://img.cdn.zostel.com/zostel/gallery/images/KKQUvDOKTN6t23hHg8bLsg/zostel-aurangabad-reception-20201105103533.jpg?w=1280"],
+            "name":"Zostel Aurangabad",
+            "description": "Zostel Aurangabad, the liveliest backpacker hostel in Aurangabad, is located just 7 km from the Aurangabad Airport and 3.4 km from Aurangabad Railway station. Don’t mistake Aurangabad to be just the land of Ajanta &amp; Ellora Caves and explore the cultural heritage it holds so dearly. Besides this, there are old forts and more for the history lovers, art galleries and museums for the art lovers and the endless Food scene for the foodies! Take a walk at Siddarth Garden while the sun sets and you will realise you have found a place you will never want to leave. Come and stay at our cosy hostel and experience Aurangabad like a local!",
+            "rooms": [
+                {
+                    "name":"8 Bed Mixed Dorm (Shared Washroom)",
+                    "occupancy":1,
+                    "description":"A bed in 8 Bed Mixed Dorm (Shared Washroom)",
+                    "roomImage": "https://img.cdn.zostel.com/zostel/gallery/images/0xh1a-KdRqW7CCg8cTNz6g/8-bed-mixed-dorm-20201112104616.jpg",
+                    "price": 549,
+                    "amenities":"https://i.ibb.co/qJz4krN/amenities.png"
+                  
+                },
+
+                {
+                    "name":"Deluxe Twin Bed Private Room (ensuite)",
+                    "occupancy": "2",
+                    "description":"Deluxe Twin Bed Private Room (ensuite) with 2 single bed</p>",
+                    "roomImage": "https://img.cdn.zostel.com/zostel/gallery/images/ryRWsN23TsOWUYVcSkCpMg/twin-bed-private-room-20201112104605.jpg",
+                    "price": 1799,
+                    "amenities":"https://i.ibb.co/qJz4krN/amenities.png"
+                  
+                },
+
+                {
+                    "name":"10 Bed Mixed Dorm (Shared Washroom)",
+                    "occupancy": "1",
+                    "description":"A bed in 10 Bed Mixed Dorm (Shared Washroom)",
+                    "roomImage": "https://img.cdn.zostel.com/zostel/gallery/images/7QT9-qdaQGiZcEk6kJUOhQ/zostel-aurangabad-10-bed-mixed-dorm-20201112104618.jpg",
+                    "price":499 ,
+                    "amenities":"https://i.ibb.co/qJz4krN/amenities.png"
+                  
+                },
+
+                {
+                    "name":"Deluxe Private Room (ensuite)",
+                    "occupancy":"2",
+                    "description":"A Deluxe Private Room (ensuite) with Double Bed",
+                    "roomImage":"https://img.cdn.zostel.com/zostel/gallery/images/zJjLGqpkQWuu528WD8NZRw/deluxe-private-room-20201112104611.jpg",
+                    "price": 1799,
+                    "amenities":"https://i.ibb.co/qJz4krN/amenities.png"
+                  
+                }
+
+            ],
+            "address": "5-14-34, Adalat Road, Kranti Chowk, Aurangabad (Beside Raymond's Men Wear), Maharashtra-431001",
+            "city":"Aurangabad",
+            "contact":"02248962270"
+        }
+    ]
+        },
+
+        {
+            "id": 2,
+            "type": "Zostel",
+            "Image": "https://wikimediafoundation.org/wp-content/uploads/2020/08/Bangalore.jpg?resize=1024,767",
+            "Name": "Zostel Bangalore",
+            "Description": "The usually busy megacity of Bangalore is pictured with lanes filled with bars and pubs, rightfully balanced by monuments and ancient buildings standing against the test of time. Home to classic art forms such as Bharatnatyam, Kuchipudi, Manipuri, and an active theatre community, Bangalore takes creativity very seriously, adorning the inside of the city! Not",
+            "stays": [{
+                "staysName": "Zostel Bangalore",
+                "staysImage": "https://img.cdn.zostel.com/zostel/gallery/images/bqpi1JSFRm-HurkJPhgsVw/bangalore-20201112104621.jpg?w=1280",
+                "staysDescription": "A cool & cosy backpacker hostel right in the middle of the action - in Indiranagar. Close to the most major landmarks of the city, we offer an apt base for a social traveller along with the promise of brand Zostel.",
+                "rate": 599
+
+            }],
+            "roomDetails": [{
+                "code": "ARNH184",
+                "images": ["https://th.bing.com/th/id/OIP.Z4hd2IIXqbcVQAOm0eeTdQHaEe?w=254&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7",
+                    "https://th.bing.com/th/id/OIP.28fXyizjTDwUm-YoDCulYAHaD4?w=294&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7", "https://th.bing.com/th/id/OIP.2HAbc5BOmqrupWe35203PAHaE7?w=250&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7",
+                    "https://th.bing.com/th/id/OIP.2YP97klAkF_cD4y4mhgx-AHaEm?w=298&h=185&c=7&r=0&o=5&dpr=1.25&pid=1.7"
+                ],
+                "name": "Zostel Bangalore",
+                "description": "Situated right in the party hub of Bangalore, Indiranagar, our backpacker hostel is the best place to make new friends and explore the city. Feel free to lounge around in our AC common room during the days while sharing your travel stories with fellow backpackers on our rooftop lounging area till late into the night. If the traveller in you is calling out, we’ll hear it well. Each day in Zostel Bangalore is happening, complete with doses of laughter and experiences. Chill out with the coolest set of people from around the world and travel without hassle. Before your mischievous mind starts wandering far, let us put one thing real straight - we take the comfort of each and every traveller very seriously.",
+                "rooms": [{
+                        "name": "4 Bed Mixed Dorm (Ensuite)",
+                        "occupancy": 1,
+                        "description": "4 Bed Mixed Dorm (Ensuite)",
+                        "roomImage": "https://img.cdn.zostel.com/zostel/gallery/images/0xh1a-KdRqW7CCg8cTNz6g/8-bed-mixed-dorm-20201112104616.jpg",
+                        "price": 549,
+                        "amenities": "https://i.ibb.co/qJz4krN/amenities.png"
+                    },
+                    {
+                        "name": "6 Bed Mixed Dorm (with shared washroom)",
+                        "occupancy": "2",
+                        "description": "A bed in 6 Bed Mixed Dorm (with shared washroom)",
+                        "roomImage": "https://img.cdn.zostel.com/zostel/gallery/images/ryRWsN23TsOWUYVcSkCpMg/twin-bed-private-room-20201112104605.jpg",
+                        "price": 1799,
+                        "amenities": "https://i.ibb.co/qJz4krN/amenities.png"
+                    },
+                    {
+                        "name": "10 Bed Mixed Dorm (with shared washroom)",
+                        "occupancy": "6",
+                        "description": "A 10 Bed Mixed Dorm (with shared washroom)",
+                        "roomImage": "https://img.cdn.zostel.com/zostel/gallery/images/7QT9-qdaQGiZcEk6kJUOhQ/zostel-aurangabad-10-bed-mixed-dorm-20201112104618.jpg",
+                        "price": 699,
+                        "amenities": "https://i.ibb.co/qJz4krN/amenities.png"
+                    }
+                ],
+                "address": "Indira nagar,near metro, (Beside Raymond's Men Wear),Bangalore-560001",
+                "city": "Bangalore",
+                "contact": "02248962290"
+            }]
+
+    },
+
+    {
+        "id": 3,
+        "type": "Zostel",
+        "Image": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/197178624.jpg?k=53b14f2a7baa8c9f3cb7e5cfa9ebb04625d8b60e15a705aff52c67bb645adbba&o=",
+        "Name": "Zostel Barot",
+        "Description": "The sound of car horns is replaced by the endless chirping of native birds. You’ll find traffic, lots of it, but only of flocks of mountain sheep and horses grazing nearby. And instead of skyscrapers and pollution, the window to your workplace hosts",
+        "stays": [{
+            "staysName": "Zostel Barot (Rajgundha)",
+            "staysImage": "https://img.cdn.zostel.com/zostel/gallery/images/wQostbYDThySaPFyMiVSqQ/barot-rajgundha-20201112104634.jpeg?w=1280",
+            "staysDescription": "Zostel Barot (Rajgundha) in Kangra provides adults-only accommodation with a shared lounge and a garden. Private parking can be arranged at an extra charge.",
+            "rate": 699
+        }],
+        "roomDetails":[
+            {
+                "code":"ARNH184",
+                "images":["https://th.bing.com/th/id/OIP.5JRpG4rItJo0oJi3q4uA0AHaE7?w=251&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7","https://th.bing.com/th/id/OIP.mmhye9eA2F-hnFVnzlUY9wHaF7?w=246&h=197&c=7&r=0&o=5&dpr=1.25&pid=1.7","https://img.cdn.zostel.com/zostel/gallery/images/-UQ1AE23QtGdJj1MyJ9NyQ/zostel-aurangabad-alley-20201105103530.jpg?w=1280","https://th.bing.com/th/id/OIP.cXAqg7dMalVdErkyrvYf5wHaF7?w=220&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7"],
+                "name":"Zostel Barot (Rajgundha)",
+                "description": "Resting secluded in the snow-white meadows of the Barot Valley of Himachal, Zostel Rajgundha is the perfect rejuvenation haven for digital nomads and anyone who loves a self-contained getaway in the mountains. With a dedicated collaboration area and a workspace for you to create, collaborate, and explore, the hostel teems with spirited energy in a tranquil landscape. Begin your morning with a hearty breakfast at the in-house café and then fill your day with board games, Yoga, dynamic work sessions, reading, and lots of holiday goodness. And when the sun goes down painting the skies crimson and gold, turn the speaker on with some soft songs, light up the bonfire, and dance the starry night away with your friends. Come, disengage from the everyday city life and delve into solitude, nature, and lots of snow!",
+                "rooms": [
+                    {
+                        "name":"4 Bed Mixed Dorm",
+                        "occupancy":1,
+                        "description":"A 4 Bed Mixed Dorm",
+                        "roomImage": "https://img.cdn.zostel.com/zostel/gallery/images/0xh1a-KdRqW7CCg8cTNz6g/8-bed-mixed-dorm-20201112104616.jpg",
+                        "price": 699,
+                        "amenities":"https://i.ibb.co/qJz4krN/amenities.png"
+                    },
+                    {
+                        "name":"Standard Room",
+                        "occupancy": "2",
+                        "description":"Standard Room with double bed.                        ",
+                        "roomImage": "https://img.cdn.zostel.com/zostel/gallery/images/ryRWsN23TsOWUYVcSkCpMg/twin-bed-private-room-20201112104605.jpg",
+                        "price": 1799,
+                        "amenities":"https://i.ibb.co/qJz4krN/amenities.png"
+                    },
+                    {
+                        "name":"Semi- Deluxe",
+                        "occupancy": "1",
+                        "description":"A Semi- Deluxe Room with double bed.",
+                        "roomImage": "https://img.cdn.zostel.com/zostel/gallery/images/7QT9-qdaQGiZcEk6kJUOhQ/zostel-aurangabad-10-bed-mixed-dorm-20201112104618.jpg",
+                        "price":499 ,
+                        "amenities":"https://i.ibb.co/qJz4krN/amenities.png"
+                    },
+                    {
+                        "name":"Deluxe Room",
+                        "occupancy":"2",
+                        "description":"Deluxe Room with double bed.",
+                        "roomImage":"https://img.cdn.zostel.com/zostel/gallery/images/zJjLGqpkQWuu528WD8NZRw/deluxe-private-room-20201112104611.jpg",
+                        "price": 1799,
+                        "amenities":"https://i.ibb.co/qJz4krN/amenities.png"
+                    }
+                ],
+                "address": "Rajgundha, PO Baragran, Barot, Kangra, Himachal Pradesh",
+                "city":"Barot (Rajgundha)",
+                "contact": "02248966122"
+            }
+        ]
+
+    },
+
+    {
+        "id": 4,
+        "type": "Zostel",
+        "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Chitkul_Kinnaur_%28cropped%29.jpg/800px-Chitkul_Kinnaur_%28cropped%29.jpg?20200415170715",
+        "Name": "Zostel Chitkul",
+        "Description": "About Perched up above most of India, in the Himalayas bordering Tibet, Chitkul is the kind of beauty that leaves you thoroughly awe-struck and grasping for more. The mountains here seem mightier than most other places, the air seems quieter, and life much slower. Coloured pink with Buckwheat blooms in Spring, white with thick blankets of snow in winters.",
+
+        "stays": [{
+                "staysName": "Zostel Chitkul",
+                "staysImage": "https://img.cdn.zostel.com/zostel/gallery/images/OqNliPmGQmuabWfq1AQKvQ/chitkul-20201112104744.jpg?w=1280",
+                "staysDescription": "Stay at Zostel Chitkul - the last traveller hostel on Indo-Tibet border with panoramic views of the Himalayas.",
+                "rate": 699
+            },
+
+            {
+                "staysName": "Zostel Sangla",
+                "staysImage": "https://img.cdn.zostel.com/zostel/gallery/images/34iuiTM1SV22xCT2SHGiKQ/zostel-sangla-20220411081009.jpg?w=1280",
+                "staysDescription": "Zostel Sangla is an offbeat and social backpacker hostel in Sangla village, Himachal Pradesh. Enjoy our in-house cafe, common room activities, panoramic views, and more.",
+                "rate": 699
+            },
+
+            {
+                "staysName": "Zostel Homes Rakchham",
+                "staysImage": "https://img.cdn.zostel.com/zostel/gallery/images/t4Y8ronNQV6MAIJJxWrVpg/rakchham-kinnaur-20201112105500.jpg?w=1280",
+                "staysDescription": "Zostel Homes Rakchham (Chitkul) is situated in Saturang and offers a garden and a terrace. Guests have a private balcony.",
+                "rate": 2999
+            }
+        ],
+        "roomDetails":[
+            {
+                "code":"ARNH184",
+                "images":["https://th.bing.com/th/id/OIP.MHNdmJmLSTatre5aS3QbjQHaEK?w=324&h=182&c=7&r=0&o=5&dpr=1.25&pid=1.7","https://th.bing.com/th/id/OIP.d9pd6VpCl3sv7-tXYwEafwHaEK?w=297&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7","https://th.bing.com/th/id/OIP.D7D5wbDeaSVhhL9zrZcg5QAAAA?w=275&h=183&c=7&r=0&o=5&dpr=1.25&pid=1.7","https://th.bing.com/th/id/OIP.ri8sNaOwhnJ2hZC-EUuLSQHaE7?w=255&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7"],
+                "name":"Zostel Chitkul",
+                "description": "The last village on the Indo-Tibet border, Chitkul, is truly one of the hidden gems of India. The village, at first glance will give you a feeling of time travel, way back into the past. The main attraction in Zostel Chitkul offers you a panoramic view of the Himalayan range on one side, dense trees on the other, and the sparkling ever-gushing river Baspa flowing behind the hostel. Speaking of its beauty, each sight is a magnificent sight to behold. No wonder, Chitkul is any photography lover’s haven.",
+                "rooms": [
+                    {
+                        "name":"Alpine/Swiss Tent (Ensuite)",
+                        "occupancy":1,
+                        "description":"A private tent with a mountain view. For the ones travelling solo or as a couple. (Ensuite)",
+                        "roomImage": "https://th.bing.com/th/id/OIP.Nld1dFHiisVNIVsMZShzVQHaF7?w=225&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7",
+                        "price": 299,
+                        "amenities":"https://i.ibb.co/qJz4krN/amenities.png"
+                    },
+                    {
+                        "name":"4 Bed Mixed Dorm",
+                        "occupancy": "2",
+                        "description":"A bed in the 4 Bed Mixed Dorm",
+                        "roomImage": "https://img.cdn.zostel.com/zostel/gallery/images/ryRWsN23TsOWUYVcSkCpMg/twin-bed-private-room-20201112104605.jpg",
+                        "price": 1799,
+                        "amenities":"https://i.ibb.co/qJz4krN/amenities.png"
+                    },
+                    {
+                        "name":"Deluxe Private Room",
+                        "occupancy": "1",
+                        "description":"A Deluxe Private Room (ensuite) with double bed.",
+                        "roomImage": "https://img.cdn.zostel.com/zostel/gallery/images/7QT9-qdaQGiZcEk6kJUOhQ/zostel-aurangabad-10-bed-mixed-dorm-20201112104618.jpg",
+                        "price":499 ,
+                        "amenities":"https://i.ibb.co/qJz4krN/amenities.png"
+                    }
+                ],
+                "address": "VPO Chitkul Near Thakur Guest House Chitkul, Sangla Dist. Kinnaur Himachal Pradesh - 172106",
+                "city":"Chitkul",
+                "contact": "02248962265"
+            }
+        ]
+
+    },
+
+    {
+        "id": 5,
+        "type": "Zostel",
+        "Image": "https://www.scrolldroll.com/wp-content/uploads/2020/01/Coorg-hill-stations-in-south-india-750x430.jpg",
+        "Name": "Zostel Coorg",
+        "Description": "A land of refreshing waterfalls, mystical mountain tops, sprawling green landscapes, and a variety of flora and fauna that lives within it, Coorg is the textbook definition of a hill station. And like that’s not enough, Coorg happens to be home.",
+        "stays": [{
+                "staysName": "Zostel Coorg",
+                "staysImage": "https://img.cdn.zostel.com/zostel/gallery/images/5ipQMVhkQ7Kebvo4QvtSkg/coorg-20201112104803.jpg?w=1280",
+                "staysDescription": "Stay in the lap of nature at Zostel Coorg - a backpacker hostel that allows you to mingle with fellow travelers over coffee, bonfires & hikes.",
+
+                "rate": 599
+            },
+            {
+                "staysName": "Zostel Homes Coorg",
+                "staysImage": "https://img.cdn.zostel.com/zostel/gallery/images/bHN-MwJ2QfWT09rQl3gf1Q/zostel-homes-coorg-20210524115917.jpg?w=1280",
+                "staysDescription": "Stay with us in Coorg at an offbeat location away from crowds in a peaceful, premium homestay. Enjoy the warm hospitality and activities and live the simple, rural life with the locals!",
+                "rate": 899
+            },
+
+            {
+                "staysName": "Zostel Mysore",
+                "staysImage": "https://img.cdn.zostel.com/zostel/gallery/images/TsTLcz02TiiekmF0WIKQAg/mysore-20201112105310.jpg?w=1280",
+                "staysDescription": "Stay with us in Gokulam - the most central location for any traveller in the yoga hub of Mysuru. Enjoy the yoga retreat with backpackers from around the world at our cosy hostel, Zostel Mysore.",
+                "rate": 499
+            }
+        ],
+        "roomDetails":[
+            {
+                "code":"ARNH184",
+                "images":["https://th.bing.com/th/id/OIP.5Bc2Q3SGn0W84TV2_2WdzAHaDL?w=347&h=150&c=7&r=0&o=5&dpr=1.25&pid=1.7","https://th.bing.com/th/id/OIP.BcaJn_d6yTqLt2RmVn_rogHaFj?w=237&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7","https://th.bing.com/th/id/OIP.lK4y553-z7Vgk5X8RVqMyQHaF7?w=205&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7","data:image/jpeg;base64,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"],
+                "name":"Zostel Coorg",
+                "description": "Situated in the lap of nature, Zostel Coorg is a backpacker hostel that allows you to mingle with fellow travelers over bonfires & hikes. Also named ‘Scotland of India’, Coorg attracts travelers from all over the world with its verdant landscapes. A carpet of coffee plantations and a blanket of peace covers the entire town, along with hot spices and a chilly breeze all around the year. The winding roads and the paths untraveled call out to the adventurous souls too but come here to rejuvenate every sense in your body and you will leave with an unprecedented calm and a resolve to come back! Zostel Coorg is tucked away in the greenest lands of the town. With a variety of dormitories, we have plenty of places where travelers can mingle apart from the cozy common room and the multi-cuisine cafe. For the more adventure-loving of the lot, we have tents for you to camp with wilderness around you.",
+                "rooms": [
+                    {
+                        "name":"2 Bed Mixed Dorm",
+                        "occupancy":1,
+                        "description":"A bed in a 2 Bed Mixed Dorm (Ensuite)",
+                        "roomImage": "https://img.cdn.zostel.com/zostel/gallery/images/0xh1a-KdRqW7CCg8cTNz6g/8-bed-mixed-dorm-20201112104616.jpg",
+                        "price": 549,
+                        "amenities":"https://i.ibb.co/qJz4krN/amenities.png"
+                    },
+                    {
+                        "name":"8 Bed Mixed Dorm (AC)",
+                        "occupancy": "2",
+                        "description":"A bed in 8 Bed Mixed Dorm (AC) (Ensuite)",
+                        "roomImage": "https://img.cdn.zostel.com/zostel/gallery/images/ryRWsN23TsOWUYVcSkCpMg/twin-bed-private-room-20201112104605.jpg",
+                        "price": 1799,
+                        "amenities":"https://i.ibb.co/qJz4krN/amenities.png"
+                    },
+                    {
+                        "name":"6 Bed Mixed Dorm (AC)",
+                        "occupancy": "1",
+                        "description":"A bed in 6 Bed Mixed Dorm (AC) (Ensuite)",
+                        "roomImage": "https://img.cdn.zostel.com/zostel/gallery/images/7QT9-qdaQGiZcEk6kJUOhQ/zostel-aurangabad-10-bed-mixed-dorm-20201112104618.jpg",
+                        "price":499 ,
+                        "amenities":"https://i.ibb.co/qJz4krN/amenities.png"
+                    },
+                    {
+                        "name":"10 Bed Mixed Dorm (AC)",
+                        "occupancy":"2",
+                        "description":"A bed in 10 Bed Mixed Dorm (AC) (Ensuite)",
+                        "roomImage":"https://img.cdn.zostel.com/zostel/gallery/images/zJjLGqpkQWuu528WD8NZRw/deluxe-private-room-20201112104611.jpg",
+                        "price": 1799,
+                        "amenities":"https://i.ibb.co/qJz4krN/amenities.png"
+                    }
+                ],
+                "address": "c/o Mr. Manu Belliapa (dragonfly homestay), Abhyatmangala village and post, Near Siddapura, Kodagu, Karnataka-571253",
+                "city":"Kodagu",
+                "contact": "02248962269"
+            }
+        ]
+
+    },
+
+    {
+        "id": 6,
+        "type": "Zostel",
+        "Image": "https://static.trip101.com/main_pics/12361/medium_webp.webp",
+        "Name": "Zostel Dalhousie",
+        "Description": "One of the most well-planned hill stations in the North, Dalhousie houses colonial-era architectural marvels jacketed by lush green mountainscapes. Moreover, the snow-capped Himalayas complementing the old world charm of the ancient",
+        "stays": [{
+            "staysName": "Zostel Dalhousie",
+            "staysImage": "https://img.cdn.zostel.com/zostel/gallery/images/MvvMYzTOSOO7Xt7oBlN0qw/zostel-dalhousie-facade-20211223204725.jpg?w=1280",
+            "staysDescription": "Stay at Zostel Dalhousie - a quaint, scenic backpacker hostel among Himalayan peaks of Chamba valley. A travelers' den to feel & explore Dalhousie on a budget.",
+            "rate": 549
+        }],
+        "roomDetails":[
+            {
+                "code":"ARNH184",
+                "images":["https://img.cdn.zostel.com/zostel/gallery/images/7x147f3PQmOuOrb_o1ez1A/zostel-aurangabad-20201105103524.jpg?w=1280","https://img.cdn.zostel.com/zostel/gallery/images/Naz8nD7YTcKKFgmtJcBbHg/zostel-aurangabad-tv-area-20201105103528.jpg?w=1280","https://img.cdn.zostel.com/zostel/gallery/images/-UQ1AE23QtGdJj1MyJ9NyQ/zostel-aurangabad-alley-20201105103530.jpg?w=1280","https://img.cdn.zostel.com/zostel/gallery/images/KKQUvDOKTN6t23hHg8bLsg/zostel-aurangabad-reception-20201105103533.jpg?w=1280"],
+                "name":"Zostel Aurangabad",
+                "description": "Zostel Aurangabad, the liveliest backpacker hostel in Aurangabad, is located just 7 km from the Aurangabad Airport and 3.4 km from Aurangabad Railway station. Don’t mistake Aurangabad to be just the land of Ajanta &amp; Ellora Caves and explore the cultural heritage it holds so dearly. Besides this, there are old forts and more for the history lovers, art galleries and museums for the art lovers and the endless Food scene for the foodies! Take a walk at Siddarth Garden while the sun sets and you will realise you have found a place you will never want to leave. Come and stay at our cosy hostel and experience Aurangabad like a local!",
+                "rooms": [
+                    {
+                        "name":"8 Bed Mixed Dorm (Shared Washroom)",
+                        "occupancy":1,
+                        "description":"A bed in 8 Bed Mixed Dorm (Shared Washroom)",
+                        "roomImage": "https://img.cdn.zostel.com/zostel/gallery/images/0xh1a-KdRqW7CCg8cTNz6g/8-bed-mixed-dorm-20201112104616.jpg",
+                        "price": 549,
+                        "amenities":"https://i.ibb.co/qJz4krN/amenities.png"
+                    },
+                    {
+                        "name":"Deluxe Twin Bed Private Room (ensuite)",
+                        "occupancy": "2",
+                        "description":"Deluxe Twin Bed Private Room (ensuite) with 2 single bed",
+                        "roomImage": "https://img.cdn.zostel.com/zostel/gallery/images/ryRWsN23TsOWUYVcSkCpMg/twin-bed-private-room-20201112104605.jpg",
+                        "price": 1799,
+                        "amenities":"https://i.ibb.co/qJz4krN/amenities.png"
+                    },
+                    {
+                        "name":"10 Bed Mixed Dorm (Shared Washroom)",
+                        "occupancy": "1",
+                        "description":"A bed in 10 Bed Mixed Dorm (Shared Washroom)",
+                        "roomImage": "https://img.cdn.zostel.com/zostel/gallery/images/7QT9-qdaQGiZcEk6kJUOhQ/zostel-aurangabad-10-bed-mixed-dorm-20201112104618.jpg",
+                        "price":499 ,
+                        "amenities":"https://i.ibb.co/qJz4krN/amenities.png"
+                    },
+                    {
+                        "name":"Deluxe Private Room (ensuite)",
+                        "occupancy":"2",
+                        "description":"A Deluxe Private Room (ensuite) with Double Bed",
+                        "roomImage":"https://img.cdn.zostel.com/zostel/gallery/images/zJjLGqpkQWuu528WD8NZRw/deluxe-private-room-20201112104611.jpg",
+                        "price": 1799,
+                        "amenities":"https://i.ibb.co/qJz4krN/amenities.png"
+                    }
+                ],
+                "address": "5-14-34, Adalat Road, Kranti Chowk, Aurangabad (Beside Raymond's Men Wear), Maharashtra-431001",
+                "city":"Dalhousie",
+                "contact": "02248962270"
+            }
+        ]
+
+    },
+
+    {
+        "id": 7,
+        "type": "Zostel",
+        "Image": "https://d2r2ijn7njrktv.cloudfront.net/apnlive/uploads/2019/03/20145359/3-Indian-cities-among-world%E2%80%99s-cheapest-place-to-live.jpg",
+        "Name": "Zostel Delhi",
+        "Description": "A little goes a long way when it comes to exploring Delhi and one thing that’s for sure is that you won’t have to travel too far to explore its absolute best. The narrow lanes of Old Delhi overflooded with people tantalise you with the most palatable street food, whereas the quiet streets of Central & Southern Delhi house monuments that speak of the royal Mughal dynasty galore. With a kickass nightlife, impressive food scene, and an arena of places to explore, shop, and live",
+        "stays": [{
+            "staysName": "Zostel Delhi",
+            "staysImage": "https://img.cdn.zostel.com/zostel/gallery/images/F0CQ-Zx8Smqs6yv6OpyUPw/zostel-delhi-hostel-20201105104805.jpg?w=1280",
+            "staysDescription": "Stay at Zostel Delhi - THE most centrally located, top-ranked backpacker hostel of Delhi. Direct airport metro and walking distance to train station, Connaught Place and Old Delhi.",
+            "rate": 549
+        }],
+        "roomDetails":[
+            {
+                "code":"ARNH184",
+                "images":["https://th.bing.com/th/id/OIP.Fh2jAlNoQrpxMJK0qzMH2gHaDL?w=330&h=150&c=7&r=0&o=5&dpr=1.25&pid=1.7","https://th.bing.com/th/id/OIP.dFWvMf9BFv5IKnDcPsO3SgHaF7?w=212&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7","https://th.bing.com/th/id/OIP.93kS3DNEsyjGLMuFenj8hQHaF7?w=223&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7","https://th.bing.com/th/id/OIP.93kS3DNEsyjGLMuFenj8hQHaF7?w=223&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7"],
+                "name":"Zostel Delhi",
+                "description": "Zostel Delhi is THE most centrally located, top-ranked backpacker hostel in Delhi. Our hostel is close to the direct airport metro and a short walk away from the train station, Connaught Place and Old Delhi. From the narrowest lanes with small shops to swanky malls; from roadside chaat stalls to the most expensive restaurants; with a charm that combines the eras of ancient India, the Mughals, the British, and the post-independence India, Delhi has stood witness to changes since time immemorial. Delhi has been a stirring pot of Indian cultures, as is befitting to a capital city. Right in its heart lies the backpacking hub of Paharganj, which might seem a bit sleepy and noisy in the day but comes alive, larger than life, in the night. Zostel Delhi, on a busy street of Paharganj, is often the first stop for International travellers before embarking to other destinations in India. One visit to Delhi is enough to lose one’s heart to it forever.",
+                "rooms": [
+                    {
+                        "name":"Designer Suite",
+                        "occupancy":1,
+                        "description":"A Designer Suite with double bed. [ Meals purchasable at the property @INR 500/day/adult if you're booking a long-stay of 7 nights or more]",
+                        "roomImage": "https://img.cdn.zostel.com/zostel/gallery/images/0xh1a-KdRqW7CCg8cTNz6g/8-bed-mixed-dorm-20201112104616.jpg",
+                        "price": 2499,
+                        "amenities":"https://i.ibb.co/qJz4krN/amenities.png"
+                    },
+                    {
+                        "name":"Deluxe Private Room",
+                        "occupancy": "2",
+                        "description":"A Deluxe Private Room with double bed. [[ Meals purchasable at the property @INR 500/day/adult if you're booking a long-stay of 7 nights or more]",
+                        "roomImage": "https://img.cdn.zostel.com/zostel/gallery/images/ryRWsN23TsOWUYVcSkCpMg/twin-bed-private-room-20201112104605.jpg",
+                        "price": 1999,
+                        "amenities":"https://i.ibb.co/qJz4krN/amenities.png"
+                    },
+                    {
+                        "name":"Deluxe Twin Room (AC)",
+                        "occupancy": "2",
+                        "description":"A Deluxe Twin Room (AC) with twin beds. [ Meals purchasable at the property @INR 500/day/adult if you're booking a long-stay of 7 nights or more]",
+                        "roomImage": "https://img.cdn.zostel.com/zostel/gallery/images/7QT9-qdaQGiZcEk6kJUOhQ/zostel-aurangabad-10-bed-mixed-dorm-20201112104618.jpg",
+                        "price":1999 ,
+                        "amenities":"https://i.ibb.co/qJz4krN/amenities.png"
+                    },
+                    {
+                        "name":"Standard Room (AC)",
+                        "occupancy":"2",
+                        "description":"A Standard Room (AC) with double bed. [ Meals purchasable at the property @INR 500/day/adult if you're booking a long-stay of 7 nights or more]",
+                        "roomImage":"https://img.cdn.zostel.com/zostel/gallery/images/zJjLGqpkQWuu528WD8NZRw/deluxe-private-room-20201112104611.jpg",
+                        "price": 1799,
+                        "amenities":"https://i.ibb.co/qJz4krN/amenities.png"
+                    }
+                ],
+                "address": "5, Ara Kashan Road, Opposite New Delhi Railway Station, New Delhi, Delhi 110005",
+                "city":"New Delhi",
+                "contact": "02248962267"
+            }
+        ]
+
+    },
+
+    {
+        "id": 8,
+        "type": "Zostel",
+        "Image": "https://www.travelsmoon.in/himachaltourpackages/images/jibhi-2.jpg?1653405253311",
+        "Name": "Zostel Dobhi",
+        "Description": "Null",
+        "stays": [{
+            "staysName": "Zostel Dobhi",
+            "staysImage": "https://img.cdn.zostel.com/zostel/gallery/images/7p4ghi5kS4y5VHAZ2gGRHw/zostel-dobhi-20211221163012.JPG?w=1280",
+            "staysDescription": "Explore the offbeat Fojal valley of Himachal Pradesh with Zostel Dobhi, a serene yet lively backpacking hostel located upon a ridge, overlooking a stream, featuring an in-house restaurant, indoor workation areas, common rooms, and a bonfire area.",
+            "rate": 649
+        }],
+        "roomDetails":[
+            {
+                "code":"ARNH184",
+                "images":["https://th.bing.com/th/id/OIP.CjYsLFj-54Cr-UockmyxUgHaF7?w=239&h=190&c=7&r=0&o=5&dpr=1.25&pid=1.7","https://th.bing.com/th/id/OIP.93kS3DNEsyjGLMuFenj8hQHaF7?w=238&h=190&c=7&r=0&o=5&dpr=1.25&pid=1.7","https://th.bing.com/th/id/OIP.A8_FV5LvSYHCT_IVBLBPpwHaF7?w=238&h=190&c=7&r=0&o=5&dpr=1.25&pid=1.7","https://th.bing.com/th/id/OIP.f2rt54izii3q4jWSnqsKEQHaF7?w=246&h=197&c=7&r=0&o=5&dpr=1.25&pid=1.7"],
+                "name":"Zostel Dobhi",
+                "description": "Overlooking the serene Fojal stream, rich fruit orchards, and the towering mountains of Kullu, Zostel Dobhi invites you to explore the offbeat Fojal valley of Himachal Pradesh. It houses a stunning workation area, warm common rooms with indoor games, a refreshing bonfire area, and an in-house restaurant that serves Indian dishes as well as traditional, home-cooked Himachali delicacies.",
+                "rooms": [
+                    {
+                        "name":"6 Bed Female Dorm",
+                        "occupancy":1,
+                        "description":"A bed in a 6 Bed Female Dorm",
+                        "roomImage": "https://img.cdn.zostel.com/zostel/gallery/images/0xh1a-KdRqW7CCg8cTNz6g/8-bed-mixed-dorm-20201112104616.jpg",
+                        "price": 699,
+                        "amenities":"https://i.ibb.co/qJz4krN/amenities.png"
+                    },
+                    {
+                        "name":"A bed in an 8 Bed Mixed Dorm",
+                        "occupancy": "1",
+                        "description":"A bed in an 8 Bed Mixed Dorm",
+                        "roomImage": "https://img.cdn.zostel.com/zostel/gallery/images/ryRWsN23TsOWUYVcSkCpMg/twin-bed-private-room-20201112104605.jpg",
+                        "price": 699,
+                        "amenities":"https://i.ibb.co/qJz4krN/amenities.png"
+                    },
+                    {
+                        "name":"Deluxe Room",
+                        "occupancy": "1",
+                        "description":"Deluxe Room with Double bed",
+                        "roomImage": "https://img.cdn.zostel.com/zostel/gallery/images/7QT9-qdaQGiZcEk6kJUOhQ/zostel-aurangabad-10-bed-mixed-dorm-20201112104618.jpg",
+                        "price":499 ,
+                        "amenities":"https://i.ibb.co/qJz4krN/amenities.png"
+                    },
+                    {
+                        "name":"Standard Room",
+                        "occupancy":"2",
+                        "description":"Standard Room with double bed",
+                        "roomImage":"https://img.cdn.zostel.com/zostel/gallery/images/zJjLGqpkQWuu528WD8NZRw/deluxe-private-room-20201112104611.jpg",
+                        "price": 1799,
+                        "amenities":"https://i.ibb.co/qJz4krN/amenities.png"
+                    }
+                ],
+                "address": "c/o Dr Paljor Bodh, VPO Dobhi, Teh. Kullu, HP - 175129",
+                "city":"Dobhi",
+                "contact": "02248962265"
+            }
+        ]
+    },
+
+    {
+        "id": 9,
+        "type": "Zostel",
+        "Image": "https://www.outlookindia.com/outlooktraveller//public/uploads/2018/03/Enchey-Monastery.jpg",
+        "Name": "Zostel Gangtok",
+        "Description": "Gangtok rose to prominence after Buddhist monasteries found refuge in its mountain land. Since then, it has been the ultimate gateway to one of the most hidden and adventurous states in our country, Sikkim. With a jazzy nightlife, eateries",
+        "stays": [{
+            "staysName": "Zostel Gangtok",
+            "staysImage": "https://img.cdn.zostel.com/zostel/gallery/images/HLRJbUbRQOiPEjMcpuCuew/zostel-gangtok-20201105104931.jpeg?w=1280",
+            "staysDescription": "Zostel Gangtok in Gangtok provides adults-only accommodation with a shared lounge and a terrace. Located around 700 m from Palzor Stadium, the hostel with free WiFi is also 3.5 km away from Do Drul Chorten Monastery.",
+            "rate": 749
+        }],
+        "roomDetails":[
+            {
+                "code":"ARNH184",
+                "images":["https://th.bing.com/th/id/OIP.-H6O6O18MF7kCzFmECqSTgHaF7?w=230&h=184&c=7&r=0&o=5&dpr=1.25&pid=1.7","https://th.bing.com/th/id/OIP.XQ32siZ8xvkCcb8Y5gDFcgHaF7?w=230&h=184&c=7&r=0&o=5&dpr=1.25&pid=1.7","https://th.bing.com/th/id/OIP.smodG2LBvtcyT-9vQvZfiAHaEK?w=327&h=184&c=7&r=0&o=5&dpr=1.25&pid=1.7","https://th.bing.com/th/id/OIP.nC07ylRjERhsoCXeidykpQHaF7?w=238&h=190&c=7&r=0&o=5&dpr=1.25&pid=1.7"],
+                "name":"Zostel Gangtok",
+                "description": "Prepped with features that make travellers feel at home, Zostel Gangtok is a backpacker hostel full of colours, energy, and a social vibe. Every corner of the hostel is blessed with a view of the hills of Gangtok at daytime, whereas by sundown, the city lights shimmer in the distance. The life of the hostel is the rooftop, where we host events & gigs and watch a beautiful sunset from. We also have a mini-bar up there that serves beers and wine, along with a swing, foosball, and carrom to keep travellers engaged.",
+                "rooms": [
+                    {
+                        "name":"Bed in the 4 Bed Mixed Dorm",
+                        "occupancy":1,
+                        "description":"A Bed in the 4 Bed Mixed Dorm",
+                        "roomImage": "https://img.cdn.zostel.com/zostel/gallery/images/0xh1a-KdRqW7CCg8cTNz6g/8-bed-mixed-dorm-20201112104616.jpg",
+                        "price": 799,
+                        "amenities":"https://i.ibb.co/qJz4krN/amenities.png"
+                    },
+                    {
+                        "name":"Bed in the 4 Bed Female Dorm",
+                        "occupancy": "1",
+                        "description":"A Bed in the 4 Bed Female Dorm",
+                        "roomImage": "https://img.cdn.zostel.com/zostel/gallery/images/ryRWsN23TsOWUYVcSkCpMg/twin-bed-private-room-20201112104605.jpg",
+                        "price": 799,
+                        "amenities":"https://i.ibb.co/qJz4krN/amenities.png"
+                    },
+                    {
+                        "name":"Deluxe Room",
+                        "occupancy": "2",
+                        "description":"A Private Deluxe Room for 2 adults",
+                        "roomImage": "https://img.cdn.zostel.com/zostel/gallery/images/7QT9-qdaQGiZcEk6kJUOhQ/zostel-aurangabad-10-bed-mixed-dorm-20201112104618.jpg",
+                        "price":499 ,
+                        "amenities":"https://i.ibb.co/qJz4krN/amenities.png"
+                    },
+                    {
+                        "name":"6 Bed Mixed Dorm",
+                        "occupancy":"2",
+                        "description":"A Bed in the 6 Bed Mixed Dorm",
+                        "roomImage":"https://img.cdn.zostel.com/zostel/gallery/images/zJjLGqpkQWuu528WD8NZRw/deluxe-private-room-20201112104611.jpg",
+                        "price": 1799,
+                        "amenities":"https://i.ibb.co/qJz4krN/amenities.png"
+                    }
+                ],
+                "address": "Upper Sichey Area, Near Tamang Gumpa, Gangtok, Sikkim (737101)",
+                "city":"Gangtok",
+                "contact": "02248966122"
+            }
+        ]
+    },
+
+    {
+        "id": 10,
+        "type": "Zostel",
+        "Image": "https://images.unsplash.com/photo-1585435126907-43110c69def0?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Z29rYXJuYSUyMGJlYWNofGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500",
+        "Name": "Zostel Gokarna",
+        "Description": "Gokarna is a beach-studded twin of Goa, only less crowded and more chilled out. Go on hikes, hop from one beach to another or simply relax and let life pass you by for a change; Gokarna is sure to surprise you in all the right ways. An ideal day here consists of catching a sunset while you gorge on seafood and beer at a beachside cafe, listening to the faint",
+        "stays": [{
+            "staysName": "Zostel Gokarna",
+            "staysImage": "https://img.cdn.zostel.com/zostel/gallery/images/d0oTejNDRJiQg0b4lt9EHg/gokarna-20201112104941.jpg?w=1280",
+            "staysDescription": "Stay with us at the best sea view backpacker hostel in Gokarna. Perched on the cliff overlooking Gokarna Main Beach, Zostel Gokarna is your spot to hike, unwind and chill with fellow travelers.",
+            "rate": 999
+        }],
+        "roomDetails":[
+            {
+                "code":"ARNH184",
+                "images":["https://th.bing.com/th/id/OIP.YL3a4MqmCKeFx5yDMaEunwHaEp?w=285&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7","https://th.bing.com/th/id/OIP.xSh6Ddw3Jdb7KQcPQJWLCgHaF7?w=223&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7","https://th.bing.com/th/id/OIP.pnoUFUXYBHjdKgt1H5U2jAHaFi?w=239&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7","https://th.bing.com/th/id/OIP.vZfV-CuV5CkIW4Xig905dwHaF7?w=226&h=181&c=7&r=0&o=5&dpr=1.25&pid=1.7"],
+                "name":"Zostel Gokarna",
+                "description": "Zostel Gokarna is a sea view backpacker hostel, perched on the cliff overlooking Gokarna Main Beach. If tranquillity is what you seek and an offbeat beach experience excites you, Gokarna is where you should be. Go on hikes, watch the waves crash on rocks as you admire the sunset, or simply relax and let time pass by; there is a lot you can do in Gokarna.",
+                "rooms": [
+                    {
+                        "name":"6 Bed Female Dorm (Ensuite)",
+                        "occupancy":1,
+                        "description":"A bed in Superior 6 Bed Female Dorm (Ensuite)",
+                        "roomImage": "https://img.cdn.zostel.com/zostel/gallery/images/0xh1a-KdRqW7CCg8cTNz6g/8-bed-mixed-dorm-20201112104616.jpg",
+                        "price": 549,
+                        "amenities":"https://i.ibb.co/qJz4krN/amenities.png"
+                    },
+                    {
+                        "name":"Private Shack (AC)",
+                        "occupancy": "2",
+                        "description":"A Private Shack (AC) with double bed. (Ensuite)",
+                        "roomImage": "https://img.cdn.zostel.com/zostel/gallery/images/ryRWsN23TsOWUYVcSkCpMg/twin-bed-private-room-20201112104605.jpg",
+                        "price": 1799,
+                        "amenities":"https://i.ibb.co/qJz4krN/amenities.png"
+                    },
+                    {
+                        "name":"6 Bed Mixed Dorm",
+                        "occupancy": "1",
+                        "description":"A bed in 6 Bed Mixed Dorm",
+                        "roomImage": "https://img.cdn.zostel.com/zostel/gallery/images/7QT9-qdaQGiZcEk6kJUOhQ/zostel-aurangabad-10-bed-mixed-dorm-20201112104618.jpg",
+                        "price":499 ,
+                        "amenities":"https://i.ibb.co/qJz4krN/amenities.png"
+                    }
+                ],
+                "address": "Kudle Beach Road, Dandebagh, Gokarna, Karnataka 581326",
+                "city":"Gokarna",
+                "contact": "02248962264"
+            }
+        ]
+    },
+
+    {
+        "id": 11,
+        "type": "Zostel",
+        "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Jaipur-Hawa_Mahal-Panoramic_view-20131017.jpg/800px-Jaipur-Hawa_Mahal-Panoramic_view-20131017.jpg?20140216153638",
+        "Name": "Zostel Jaipur",
+        "Description": "Home to some of Rajasthan’s most popular sights, Jaipur is a part of the Golden Triangle that usually tops every traveller’s bucket list. With its old-world charm and incredible shopping markets, Jaipur offers the best of both worlds to travellers.",
+        "stays": [{
+            "staysName": "Zostel Jaipur",
+            "staysImage": "https://img.cdn.zostel.com/zostel/gallery/images/zvxuEcerT5q2zBHmUzeWxQ/jaipur-20201112104947.jpg?w=1280",
+            "staysDescription": "Stay with us at Zostel Jaipur - the two-time best Indian hostel award winner. Centrally located at Hawa Mahal - this backpacker hostel is the pride of brand Zoste",
+            "rate": 349
+        }],
+        "roomDetails":[
+            {
+                "code":"ARNH184",
+                "images":["https://th.bing.com/th/id/OIP.8SEn4j84WOA8O-SZ2bRffAHaEK?w=314&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7","https://th.bing.com/th/id/OIP.V4VU8Z3zrJGTNFhgBWmJHgHaF7?w=221&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7","https://th.bing.com/th/id/OIP.JZ0dH9AtKCnV54kJ8ZCDWQHaDL?w=349&h=150&c=7&r=0&o=5&dpr=1.25&pid=1.7","https://th.bing.com/th/id/OIP.DYEDUcNAWkomLF3GlBqhIQHaF7?w=202&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7"],
+                "name":"Zostel Jaipur",
+                "description": "Zostel Jaipur is two-time best Indian hostel award winner. Centrally located within the walled city, at Hawa Mahal - this classy backpacker hostel is the pride of brand Zostel. Jaipur serves as a gateway into the most colourful state of India, Rajasthan. The capital city packs all aspects that the state is known for within itself. Jaipur has a deep connection with its historic past which is visible in its preservation of the walled Pink City, which is what Jaipur is essentially famous for. ",
+                "rooms": [
+                    {
+                        "name":"Superior 4 Bed Mixed Dorm (with shared washroom)",
+                        "occupancy":1,
+                        "description":"The 4-bed dorm room with AC and shared (common) washroom [ Meals purchasable at the property @INR 350/day/adult if you're booking a long-stay of 7 nights or more]",
+                        "roomImage": "https://img.cdn.zostel.com/zostel/gallery/images/0xh1a-KdRqW7CCg8cTNz6g/8-bed-mixed-dorm-20201112104616.jpg",
+                        "price": 499,
+                        "amenities":"https://i.ibb.co/qJz4krN/amenities.png"
+                    },
+                    {
+                        "name":"Superior 6 Bed Female Dorm",
+                        "occupancy": "2",
+                        "description":"The chic and neat female-only dorm for that girls-trip [[ Meals purchasable at the property @INR 350/day/adult if you're booking a long-stay of 7 nights or more]",
+                        "roomImage": "https://img.cdn.zostel.com/zostel/gallery/images/ryRWsN23TsOWUYVcSkCpMg/twin-bed-private-room-20201112104605.jpg",
+                        "price": 449,
+                        "amenities":"https://i.ibb.co/qJz4krN/amenities.png"
+                    },
+                    {
+                        "name":"6 Bed Mixed Dorm",
+                        "occupancy": "1",
+                        "description":"6 Bed Mixed Dorm with Ensuite Washroom. [ Meals purchasable at the property @INR 350/day/adult if you're booking a long-stay of 7 nights or more] ",
+                        "roomImage": "https://img.cdn.zostel.com/zostel/gallery/images/7QT9-qdaQGiZcEk6kJUOhQ/zostel-aurangabad-10-bed-mixed-dorm-20201112104618.jpg",
+                        "price":449 ,
+                        "amenities":"https://i.ibb.co/qJz4krN/amenities.png"
+                    },
+                    {
+                        "name":"Superior 8 Bed Mixed Dorm",
+                        "occupancy":"2",
+                        "description":"Make friends with fellow travellers in this dorm with personal lockers [ Meals purchasable at the property @INR 350/day/adult if you're booking a long-stay of 7 nights or more]",
+                        "roomImage":"https://img.cdn.zostel.com/zostel/gallery/images/zJjLGqpkQWuu528WD8NZRw/deluxe-private-room-20201112104611.jpg",
+                        "price": 399,
+                        "amenities":"https://i.ibb.co/qJz4krN/amenities.png"
+                    }
+                ],
+                "address": "First Floor, 85-A, Rajamal Ka Talab, Icici Bank Building, Chandi ki Taksal, Opposite Tourist Police Station, Jaipur, Rajasthan 302002",
+                "city":"Jaipur",
+                "contact": "02248962267"
+            }
+        ]
+    },
+
+    {
+        "id": 12,
+        "type": "Zostel",
+        "Image": "http://www.thepridejaisalmer.com/wp-content/uploads/2019/09/48678934317_5b33d54979_b.jpg",
+        "Name": "Zostel Jaisalmer",
+        "Description": "Jaisalmer is golden in the most profound sense, with the colour reflecting in its houses, streets, and desert alike. Travellers look forward to a lip-smacking plate of daal baati, walking through a fort which is a city in itself, and exploring the textiles to bring home a skirt or a mat. Accompanying these, Jaisalmer gives you a surreal experience of camping in the desert",
+        "stays": [{
+            "staysName": "Zostel Jaisalmer",
+            "staysImage": "https://img.cdn.zostel.com/zostel/gallery/images/NEL6rgAnRqCkARiylpY5Fw/zostel-now-in-jaisalmer-20201105105543.jpg?w=1280",
+            "staysDescription": "Stay at our colourful hostel located INSIDE the royal Jaisalmer fort. With an Open-to-Sky Lounge offering a breathtaking panoramic view of the Golden city, Zostel Jaisalmer is a quirky backpackers' haven.",
+            "rate": 399
+        }]
+    },
+
+    {
+        "id": 13,
+        "type": "Zostel",
+        "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/The_Mehrangarh_Fort%2C_Jodhpur%2C_Rajasthan.jpg/800px-The_Mehrangarh_Fort%2C_Jodhpur%2C_Rajasthan.jpg?20180915053306",
+        "Name": "Zostel Jodhpur",
+        "Description": "Of palaces that showcase its cultural lineage, narrow lanes filled with treasures big and small, and food combinations that are likely to enthrall the inner foodie in you, welcome to the true blue of Rajasthan, Jodhpur. The royalty of the city is bound to follow you everywhere you go in the form of its heritage, grandeur, and ancient palaces that define it.",
+        "stays": [{
+            "staysName": "Zostel Jodhpur",
+            "staysImage": "https://img.cdn.zostel.com/zostel/gallery/images/erZU41foTvGGu_uqKwpvPw/jodhpur-20201112105014.JPG?w=1280",
+            "staysDescription": "Explore the blue city with Zostel at our colourful backpacker hostel - overlooking the majestic Mehrangarh fort and close to the Ghanta Ghar, the Heart of Jodhpur.",
+            "rate": 449
+        }]
+    },
+
+    {
+        "Id": "50",
+        "type": "Zostel Homes",
+        "Image": "https://tse1.mm.bing.net/th?id=OIP.QEmT-3kOGVRjuV6s8bKkHQHaEK&pid=Api&P=0&w=329&h=185",
+        "Name": "Zostel Homes Burwa",
+        "Description": "Chill with us at Zostel Manali amidst panoramic Himalayan views, apple orchard and a gorgeous garden cafe. Located at the unbeatable location of Old Manali, our backpacker hostel is an ideal place to laze around with other backpackers.",
+        "stays": [{
+                "staysName": "Zostel Manali",
+                "staysImage": "https://tse1.mm.bing.net/th?id=OIP.tdrhhjCJE9Cc2xuGmQ2fzQHaF7&pid=Api&P=0&w=197&h=157",
+                "staysDescription": "Chill with us at Zostel Manali amidst panoramic Himalayan views, apple orchard and a gorgeous garden cafe. Located at the unbeatable location of Old Manali, our backpacker hostel is an ideal place to laze around with other backpackers.",
+                "rate": "699"
+            },
+            {
+                "staysName": "Zostel Vashisht",
+                "staysImage": "https://tse1.mm.bing.net/th?id=OIP.ubXdL1TNCd8QQ2yOlSXifQHaFA&pid=Api&P=0&w=234&h=158",
+                "staysDescription": "A refreshing escape awaits you at Zostel Vashisht, our swanky new backpacking hostel near Manali. Enjoy uninterrupted views of snow-capped mountains, hearty cafe food, hip common areas, and unique attic dorms at our chic hostel in Himachal Pradesh.",
+                "rate": "599"
+            },
+            {
+                "staysName": "Zostel Dobhi",
+                "staysImage": "https://tse4.mm.bing.net/th?id=OIP.q6pcY3_Ol20mP3GJljOqrgHaEu&pid=Api&P=0&w=247&h=157",
+                "staysDescription": "Explore the offbeat Fojal valley of Himachal Pradesh with Zostel Dobhi, a serene yet lively backpacking hostel located upon a ridge, overlooking a stream, featuring an in-house restaurant, indoor workation areas, common rooms, and a bonfire area.",
+                "rate": "649"
+            },
+            {
+                "staysName": "Zostel Homes Burwa",
+                "staysImage": "https://tse3.mm.bing.net/th?id=OIP.0D3EDv2tQ7zCGZIvOwOztQHaEK&pid=Api&P=0&w=312&h=175",
+                "staysDescription": "Stay with us in Manali at an offbeat location away from crowds in a peaceful, premium homestay. Enjoy the warm hospitality and activities and live the simple, rural life with the locals!.",
+                "rate": "699"
+            },
+            {
+                "staysName": "GlampEco",
+                "staysImage": "https://tse3.mm.bing.net/th?id=OIP.X-kwTOk8Zad1w90B4V4vqQHaEK&pid=Api&P=0&w=322&h=180",
+                "staysDescription": "For the first time in India, you can experience a stay in Geodesic Domes Glamping tents which are perched at a height of over 2600 mt, with a splendid view of Dhauldhar ranges and Manali valley.",
+                "rate": "700"
+            }
+        ]
+    },
+    {
+        "Id": "51",
+        "type": "Zostel Homes",
+        "Image": "https://tse3.mm.bing.net/th?id=OIP.EtqaMeWRp8OgsCUVkXHDbAHaEK&pid=Api&P=0&w=293&h=164",
+        "Name": "Zostel Homes Fagu",
+        "Description": "Chill with us at Zostel Manali amidst panoramic Himalayan views, apple orchard and a gorgeous garden cafe. Located at the unbeatable location of Old Manali, our backpacker hostel is an ideal place to laze around with other backpackers.",
+        "stays": [{
+            "staysName": "Zostel Homes Cheog",
+            "staysImage": "https://tse3.mm.bing.net/th?id=OIP.cwGs2DRlbvx6m6f2IG0a_wHaE8&pid=Api&P=0&w=229&h=153",
+            "staysDescription": "Stay with us in Cheog (Near Fagu, Shimla), an offbeat location away from crowds in a peaceful, premium homestay. Enjoy the warm hospitality and activities and live the simple, rural life with the locals!",
+            "rate": "2999"
+        }]
+    },
+    {
+        "Id": "52",
+        "type": "Zostel Homes",
+        "Image": "https://tse1.mm.bing.net/th?id=OIP.BgPV2SWBMfAoc844S1B0ogHaFj&pid=Api&P=0&w=212&h=158",
+        "Name": "Zostel Homes Coorg",
+        "Description": "Stay in the lap of nature at Zostel Coorg - a backpacker hostel that allows you to mingle with fellow travelers over coffee, bonfires & hikes.",
+        "stays": [{
+                "staysName": "Zostel Homes Cheog",
+                "staysImage": "https://tse2.mm.bing.net/th?id=OIP.BW-lwDFZ4jt4EYZ5E3Q8XAHaDt&pid=Api&P=0&w=345&h=172",
+                "staysDescription": "Stay in the lap of nature at Zostel Coorg - a backpacker hostel that allows you to mingle with fellow travelers over coffee, bonfires & hikes.",
+                "rate": "599"
+            },
+            {
+                "staysName": "Zostel Homes Coorg",
+                "staysImage": "https://tse3.mm.bing.net/th?id=OIP.CKSbKqN0EXx9iw3GLQXTuwHaF7&pid=Api&P=0&w=227&h=182",
+                "staysDescription": "Stay with us in Coorg at an offbeat location away from crowds in a peaceful, premium homestay. Enjoy the warm hospitality and activities and live the simple, rural life with the locals!",
+                "rate": "899"
+            },
+            {
+                "staysName": "Zostel Mysore",
+                "staysImage": "https://tse2.mm.bing.net/th?id=OIP.x-G_88q0G8Nj63dCH9ILZQHaDl&pid=Api&P=0&w=366&h=176",
+                "staysDescription": "Stay with us in Gokulam - the most central location for any traveller in the yoga hub of Mysuru. Enjoy the yoga retreat with backpackers from around the world at our cosy hostel, Zostel Mysore.",
+                "rate": "499"
+            }
+        ]
+    },
+    {
+        "Id": "53",
+        "type": "Zostel Homes",
+        "Image": "https://tse2.mm.bing.net/th?id=OIP.TqRc4AQUlvife3CFZ7CL6QHaE7&pid=Api&P=0&w=255&h=170",
+        "Name": "Zostel Homes Kibber",
+        "Description": "Discover Spiti with Asia's highest backpacker hostel - Zostel Spiti. Top ranked by guests, Zostel Spiti fosters new friendships and helps you explore the majestic Spiti on a budget.",
+        "stays": [{
+                "staysName": "Zostel Spiti",
+                "staysImage": "https://tse1.mm.bing.net/th?id=OIP.j46DtWsXdXw9If213OQKeQHaF7&pid=Api&P=0&w=214&h=171",
+                "staysDescription": "Discover Spiti with Asia's highest backpacker hostel - Zostel Spiti. Top ranked by guests, Zostel Spiti fosters new friendships and helps you explore the majestic Spiti on a budget.",
+                "rate": "649"
+            },
+            {
+                "staysName": "Zostel Homes Kibber",
+                "staysImage": "https://tse1.mm.bing.net/th?id=OIP.4iYuhLLMOMU0fpxL417dJQHaF7&pid=Api&P=0&w=194&h=155",
+                "staysDescription": "Zostel Homes Kibber (Spiti or Kaza) is set in Kibber and offers a shared lounge, a garden and a terrace. This homestay offers accommodation with a balcony.",
+                "rate": "2999"
+            },
+            {
+                "staysName": "Zostel Homes Tabo",
+                "staysImage": "https://tse2.mm.bing.net/th?id=OIP.L0cHAszLetUBR1BZiHxtQgHaF7&pid=Api&P=0&w=194&h=155",
+                "staysDescription": "Zostel Homes Tabo (Spiti) is located in Tabo and offers a shared lounge and a terrace. With mountain views, this accommodation provides a balcony.",
+                "rate": "2499"
+            }
+        ]
+    },
+    {
+        "Id": "54",
+        "type": "Zostel Homes",
+        "Image": "https://tse1.mm.bing.net/th?id=OIP.1pkDAgZzt_ujkMC9eCksFQHaFj&pid=Api&P=0&w=205&h=154",
+        "Name": "Zostel Homes Narkanda",
+        "Description": "a",
+        "stays": [{
+            "staysName": "Zostel Homes Kotgarh",
+            "staysImage": "https://tse3.mm.bing.net/th?id=OIP.WE72gQtbgJP_qfYvp5yM-AHaE8&pid=Api&P=0&w=237&h=158",
+            "staysDescription": "Stay with us in Kotgarh (Near Narkanda), an offbeat location away from crowds in a peaceful, premium homestay. Enjoy the warm hospitality and activities and live the simple, rural life with the locals!",
+            "rate": "3999"
+        }]
+    },
+
+    {
+        "Id": "55",
+        "type": "Zostel Homes",
+        "Image": "https://tse2.mm.bing.net/th?id=OIP.m1X6qfn89s5mw9vK1F9JzgHaE8&pid=Api&P=0&w=240&h=160",
+        "Name": "Zostel Homes Kotkhai",
+        "Description": "Located in Shimla in the Himachal Pradesh region, Zostel Homes Kotkhai (Shimla) provides accommodation with free private parking. There is a shared lounge at this property and guests can go hiking nearby.",
+        "stays": [{
+            "staysName": "Zostel Homes Kotkhai",
+            "staysImage": "https://tse2.mm.bing.net/th?id=OIP.xiJ3x8ZllpOUTkizCOhCCQAAAA&pid=Api&P=0&w=188&h=125",
+            "staysDescription": "Located in Shimla in the Himachal Pradesh region, Zostel Homes Kotkhai (Shimla) provides accommodation with free private parking. There is a shared lounge at this property and guests can go hiking nearby.",
+            "rate": "2999"
+        }]
+    },
+    {
+        "Id": "56",
+        "type": "Zostel Homes Laida",
+        "Image": "https://tse4.mm.bing.net/th?id=OIP.R3A5k_fPq5wx2x0oNkt7GgHaE8&pid=Api&P=0&w=242&h=161",
+        "Name": "Zostel Homes Jibhi",
+        "Description": "a",
+        "stays": [{
+            "staysName": "Zostel Homes Laida",
+            "staysImage": "https://tse3.mm.bing.net/th?id=OIP.XF0oS8_P69IduU7RyylrKgHaF7&pid=Api&P=0&w=194&h=155",
+            "staysDescription": "Stay with us in Cheog (Near Jibhi), an offbeat location away from crowds in a peaceful, premium homestay. Enjoy the warm hospitality and activities and live the simple, rural life with the locals!",
+            "rate": "1999"
+        }]
+    },
+    {
+        "Id": "57",
+        "type": "Zostel Homes",
+        "Image": "https://tse4.mm.bing.net/th?id=OIP.i9o6HDo7IYvkLzUsoCziKAHaED&pid=Api&P=0&w=289&h=158",
+        "Name": "Zostel Homes Mashobra",
+        "Description": "Set in Mashobra in the Himachal Pradesh Region, 16 km from Shimla, Tranquil Countryside Homes boasts a terrace and views of the mountains. There is a games room on site and guests can enjoy the on-site restaurant.",
+        "stays": [{
+            "staysName": "Zostel Homes Mashobra",
+            "staysImage": "https://tse3.mm.bing.net/th?id=OIP.7hRi-KS-5v_Lp7JddOLcXQHaF7&pid=Api&P=0&w=198&h=159",
+            "staysDescription": "Set in Mashobra in the Himachal Pradesh Region, 16 km from Shimla, Tranquil Countryside Homes boasts a terrace and views of the mountains. There is a games room on site and guests can enjoy the on-site restaurant.",
+            "rate": "2999"
+        }]
+    },
+    {
+        "Id": "58",
+        "type": "Zostel Homes",
+        "Image": "https://tse3.mm.bing.net/th?id=OIP.ZxsjvEIV7QGj5kvnP9J5-gHaE6&pid=Api&P=0&w=261&h=173",
+        "Name": "Zostel Homes Pushkar",
+        "Description": "Stay at Zostel Pushkar, a traveller and digital nomad friendly backpacking hostel in Pushkar with a swimming pool, cafe, workstations, indoor games, and rooftop with a view of the Aravali hills.",
+        "stays": [{
+                "staysName": "Zostel Pushkar",
+                "staysImage": "  https://tse2.mm.bing.net/th?id=OIP.F1ATw9nH1-1r0-9lks667wHaF7&pid=Api&P=0&w=222&h=178",
+                "staysDescription": "Stay at Zostel Pushkar, a traveller and digital nomad friendly backpacking hostel in Pushkar with a swimming pool, cafe, workstations, indoor games, and rooftop with a view of the Aravali hills.",
+                "rate": "399"
+            },
+            {
+                "staysName": "Zostel Homes Pushkar",
+                "staysImage": "https://tse2.mm.bing.net/th?id=OIP.iCpFlnuOewj_Al8VgzrwFwHaF7&pid=Api&P=0&w=222&h=178",
+                "staysDescription": "Zostel Homes Pushkar in Pushkar offers accommodation with free WiFi, 7 km from Varaha Temple, 7 km from Brahma Temple and 7 km from Pushkar Lake. Situated 6 km from Pushkar Fort, the property features a garden and free private parking.",
+                "rate": "1799"
+            }
+        ]
+    },
+    {
+        "Id": "59",
+        "type": "Zostel Homes",
+        "Image": "https://tse1.mm.bing.net/th?id=OIP.nDhecuO6aE9dcPoNo-_ZnQHaEy&pid=Api&P=0&w=276&h=178",
+        "Name": "Zostel Homes Rakhcham",
+        "Description": "Zostel Homes Rakchham (Chitkul) is situated in Saturang and offers a garden and a terrace. Guests have a private balcony.",
+        "stays": [{
+                "staysName": "Zostel Homes Rakchham",
+                "staysImage": "https://tse4.explicit.bing.net/th?id=OIP.G88FdFQRoKvLu8kelM095QHaF7&pid=Api&P=0&w=224&h=179",
+                "staysDescription": "Zostel Homes Rakchham (Chitkul) is situated in Saturang and offers a garden and a terrace. Guests have a private balcony.",
+                "rate": "2999"
+            },
+            {
+                "staysName": "Zostel Sangla",
+                "staysImage": "https://tse3.mm.bing.net/th?id=OIP.To5TS4dyxddg7HSCgTg-pwHaF7&pid=Api&P=0&w=194&h=155",
+                "staysDescription": "Zostel Sangla is an offbeat and social backpacker hostel in Sangla village, Himachal Pradesh. Enjoy our in-house cafe, common room activities, panoramic views, and more.",
+                "rate": "699"
+            },
+            {
+                "staysName": "Zostel Chitkul",
+                "staysImage": "https://tse1.mm.bing.net/th?id=OIP.QDi4Xs0E4OfFw36jT5I05wHaDL&pid=Api&P=0&w=375&h=161",
+                "staysDescription": "Stay at Zostel Chitkul - the last traveller hostel on Indo-Tibet border with panoramic views of the Himalayas.",
+                "rate": "699"
+            }
+        ]
+    },
+    {
+        "Id": "60",
+        "type": "Zostel Homes",
+        "Image": "https://tse1.mm.bing.net/th?id=OIP.mx8Gkf7hWB-Z4cEweHki4gHaEM&pid=Api&P=0&w=272&h=154",
+        "Name": "Zostel Homes Ramgadh",
+        "Description": "Zostel Home Ramgarh is your laid-back luxury escape in a quaint Uttarakhand hill station, only 6-7 hours from Delhi.",
+        "stays": [{
+                "staysName": "Zostel Homes Ramgarh (Nainital)",
+                "staysImage": "https://tse1.mm.bing.net/th?id=OIP.CUmx7NHROXVCSLzNFZM6owHaF7&pid=Api&P=0&w=195&h=156",
+                "staysDescription": "Zostel Home Ramgarh is your laid-back luxury escape in a quaint Uttarakhand hill station, only 6-7 hours from Delhi.",
+                "rate": "2999"
+            },
+            {
+                "staysName": "Zostel Mukteshwar",
+                "staysImage": "https://tse4.mm.bing.net/th?id=OIP.MHNdmJmLSTatre5aS3QbjQHaEK&pid=Api&P=0&w=280&h=157",
+                "staysDescription": "A cosy, peaceful backpacker hostel in the mountains of Uttarakhand - 1.5 hrs from lake town of Nainital. Situated in a secluded area with lush natural scenery and mountain views, Zostel Mukteshwar is an ideal chilling destination for the young d",
+                "rate": "499"
+            }
+        ]
+    },
+    {
+        "Id": "61",
+        "type": "Zostel Homes",
+        "Image": "https://tse1.mm.bing.net/th?id=OIP.drQJG0OhiSEtvADh9q6JoAHaFj&pid=Api&P=0&w=247&h=185",
+        "Name": "Naggar",
+        "Description": "a",
+        "stays": [{
+                "staysName": "Zostel Sissu",
+                "staysImage": "https://tse1.mm.bing.net/th?id=OIP.vInrHVmTdra_PQ2j5oA_bwHaF7&pid=Api&P=0&w=194&h=155",
+                "staysDescription": "Experience Himachal's offbeat Lahaul region through Zostel Sissu, a brilliantly located backpacker hostel with majestic views, vibrant common areas, outdoor games, and spacious rooms.",
+                "rate": "699"
+            },
+            {
+                "staysName": "Zostel Homes Rashil",
+                "staysImage": "https://tse3.mm.bing.net/th?id=OIP.Nj7JlBaPBB1GmL3n0FwCqgHaEb&pid=Api&P=0&w=300&h=300",
+                "staysDescription": "Rashil is, quite literally, a quaint old village on the top of a hill, by a flowing river, and overlooking the snow-clad Himalayas. The magical setting is made dreamier with brilliant sunset skies & the sight of the milky way at midnight.",
+                "rate": "649"
+            }
+        ]
+    },
+    {
+        "Id": "62",
+        "type": "Zostel Homes",
+        "Image": "https://tse4.mm.bing.net/th?id=OIP.CGcO6oMjLywGlFMeneuXpQHaEK&pid=Api&P=0&w=287&h=161",
+        "Name": "Tabo",
+        "Description": "Zostel Homes Tabo (Spiti) is located in Tabo and offers a shared lounge and a terrace. With mountain views, this accommodation provides a balcony.",
+        "stays": [{
+                "staysName": "Zostel Dobhi",
+                "staysImage": "https://tse1.mm.bing.net/th?id=OIP.X8BF7x1q8S-UFdjG3-uMyQHaDL&pid=Api&P=0&w=375&h=161",
+                "staysDescription": "Explore the offbeat Fojal valley of Himachal Pradesh with Zostel Dobhi, a serene yet lively backpacking hostel located upon a ridge, overlooking a stream, featuring an in-house restaurant, indoor workation areas, common rooms, and a bonfire area.",
+                "rate": "649"
+            },
+            {
+                "staysName": "Zostel Homes Rumsu",
+                "staysImage": "https://tse1.mm.bing.net/th?id=OIP.THlg86ahP51neVF7MxkhCAHaF7&pid=Api&P=0&w=194&h=155",
+                "staysDescription": "Stay with us in Rumsu (Near Naggar), an offbeat location away from crowds in a peaceful, premium homestay. Enjoy the warm hospitality and activities and live the simple, rural life with the locals!",
+                "rate": "2499"
+            }
+        ]
+    },
+    {
+        "Id": "62",
+        "type": "Zostel Homes",
+        "Image": "https://tse2.mm.bing.net/th?id=OIP.wOg2bobQZlttCXaCRxM2vwHaEK&pid=Api&P=0&w=272&h=153",
+        "Name": "Zostel Homes Theog",
+        "Description": "a",
+        "stays": [{
+            "staysName": "Zostel Homes Tabo",
+            "staysImage": "https://tse2.mm.bing.net/th?id=OIP.vNCpbarBSeMmgWS2cMIjtQHaF7&pid=Api&P=0&w=194&h=155",
+            "staysDescription": "Zostel Homes Tabo (Spiti) is located in Tabo and offers a shared lounge and a terrace. With mountain views, this accommodation provides a balcony.",
+            "rate": "2499"
+        }]
+    },
+
+    {
+        "Id": "63",
+        "type": "Zostel Homes",
+        "Image": "https://tse2.mm.bing.net/th?id=OIP.I_fP6iL0foCAZQPaBMhg3QHaE7&pid=Api&P=0&w=243&h=161",
+        "Name": "Zostel Homes Wayanand",
+        "Description": "Zostel Wayanad is a quaint backpacking hostel located amidst sprawling tea plantations right at the base of the famous Chembra Peak. We offer an ideal setting for the young social travellers and digital nomads to explore Wayanad.",
+        "stays": [{
+            "staysName": "Zostel Homes Theog",
+            "staysImage": "https://tse1.mm.bing.net/th?id=OIP.52RuitFnU_Ni-dVaUTdXNgAAAA&pid=Api&P=0&w=259&h=172",
+            "staysDescription": "Set in Shimla in the Himachal Pradesh region, Zostel Homes Theog (Shimla) offers accommodation with free private parking. A buffet breakfast is available every morning at the homestay. Guests can also relax in the shared lounge area.",
+            "rate": "2799"
+        }]
+    },
+    {
+        "Id": "64",
+        "type": "Zostel Plus",
+        "Image": "https://tse4.mm.bing.net/th?id=OIP.WpYjwb_Xe6n2zkIb74_rbgHaFj&pid=Api&P=0&w=253&h=190",
+        "Name": "Bir",
+        "Description": "Zostel Plus Bir in Bīr provides adults-only accommodation with a restaurant, a shared lounge and a garden.",
+        "stays": [{
+                "staysName": "Zostel Wayanad",
+                "staysImage": "https://tse1.mm.bing.net/th?id=OIP.mwb5R28UBRlJJyPSlqoKSgHaDL&pid=Api&P=0&w=364&h=156",
+                "staysDescription": "Zostel Wayanad is a quaint backpacking hostel located amidst sprawling tea plantations right at the base of the famous Chembra Peak. We offer an ideal setting for the young social travellers and digital nomads to explore Wayanad.",
+                "rate": "899"
+            },
+            {
+                "staysName": "Zostel Homes Wayanad (Vythiri)",
+                "staysImage": "https://tse4.mm.bing.net/th?id=OIP.jV_x27ODcPlnYHChrUWPogHaEK&pid=Api&P=0&w=338&h=189",
+                "staysDescription": "A luxe villa nestled in 1000 acres of a private estate, with plush private rooms, natural bathrooms, and exclusive access to nearby waterfalls, hiking trails, and more. This villa is bookable only on a full-house basis.",
+                "rate": "1499"
+            },
+            {
+                "staysName": "Zostel Homes Wayanad (Karapuzha)",
+                "staysImage": "https://tse1.mm.bing.net/th?id=OIP.OTLQ6KfySFVTeA_yEojCpQHaE7&pid=Api&P=0&w=276&h=184",
+                "staysDescription": "Located on the banks of the laidback Karapuzha dam, this homestay is perfect for a close-knit rendezvous with the goodness of nature. It features vast balconies, a verdant lawn and bonfire area, indoor games, and hill views with a charming sunset.",
+                "rate": "3199"
+            },
+            {
+                "staysName": "Zostel Homes Wayanad (Thirunelly)",
+                "staysImage": "https://tse1.mm.bing.net/th?id=OIP.2GFjCzGQe8rhMGSVJHJK1QHaE7&pid=Api&P=0&w=233&h=155",
+                "staysDescription": "Located in Thirunelly, Zostel Homes Wayanad offers a unique stay experience, brimming with unimaginable greenery and wilderness all around.",
+                "rate": "2799"
+            }
+        ]
+    },
+    {
+        "Id": "64",
+        "type": "Zostel Plus",
+        "Image": "https://tse4.mm.bing.net/th?id=OIP.WpYjwb_Xe6n2zkIb74_rbgHaFj&pid=Api&P=0&w=253&h=190",
+        "Name": "Bir",
+        "Description": "Zostel Plus Bir in Bīr provides adults-only accommodation with a restaurant, a shared lounge and a garden.",
+        "stays": [{
+                "staysName": "Zostel Wayanad",
+                "staysImage": "https://tse1.mm.bing.net/th?id=OIP.mwb5R28UBRlJJyPSlqoKSgHaDL&pid=Api&P=0&w=364&h=156",
+                "staysDescription": "Zostel Wayanad is a quaint backpacking hostel located amidst sprawling tea plantations right at the base of the famous Chembra Peak. We offer an ideal setting for the young social travellers and digital nomads to explore Wayanad.",
+                "rate": "899"
+            },
+            {
+                "staysName": "Zostel Homes Wayanad (Vythiri)",
+                "staysImage": "https://tse4.mm.bing.net/th?id=OIP.jV_x27ODcPlnYHChrUWPogHaEK&pid=Api&P=0&w=338&h=189",
+                "staysDescription": "A luxe villa nestled in 1000 acres of a private estate, with plush private rooms, natural bathrooms, and exclusive access to nearby waterfalls, hiking trails, and more. This villa is bookable only on a full-house basis.",
+                "rate": "1499"
+            },
+            {
+                "staysName": "Zostel Homes Wayanad (Karapuzha)",
+                "staysImage": "https://tse1.mm.bing.net/th?id=OIP.OTLQ6KfySFVTeA_yEojCpQHaE7&pid=Api&P=0&w=276&h=184",
+                "staysDescription": "Located on the banks of the laidback Karapuzha dam, this homestay is perfect for a close-knit rendezvous with the goodness of nature. It features vast balconies, a verdant lawn and bonfire area, indoor games, and hill views with a charming sunset.",
+                "rate": "3199"
+            },
+            {
+                "staysName": "Zostel Homes Wayanad (Thirunelly)",
+                "staysImage": "https://tse1.mm.bing.net/th?id=OIP.2GFjCzGQe8rhMGSVJHJK1QHaE7&pid=Api&P=0&w=233&h=155",
+                "staysDescription": "Located in Thirunelly, Zostel Homes Wayanad offers a unique stay experience, brimming with unimaginable greenery and wilderness all around.",
+                "rate": "2799"
+            }
+        ]
+    },
+    {
+        "Id": "65",
+        "type": "Zostel Plus",
+        "Image": "https://tse2.mm.bing.net/th?id=OIP.msVgAN2MKinP0XRIYOz0HAHaF7&pid=Api&P=0&w=192&h=153",
+        "Name": "Bir",
+        "Description": "Zostel Plus Bir in Bīr provides adults-only accommodation with a restaurant, a shared lounge and a garden.",
+        "stays": [{
+                "staysName": "Zostel Plus Bir",
+                "staysImage": "https://tse3.mm.bing.net/th?id=OIP.EI0wsmkQQzwgYMFn-9zD7wHaF7&pid=Api&P=0&w=192&h=153",
+                "staysDescription": "Zostel Plus Bir in Bīr provides adults-only accommodation with a restaurant, a shared lounge and a garden.",
+                "rate": "799"
+            },
+            {
+                "staysName": "Zostel Barot (Rajgundha)",
+                "staysImage": "https://tse1.mm.bing.net/th?id=OIP.5JRpG4rItJo0oJi3q4uA0AHaE7&pid=Api&P=0&w=250&h=166",
+                "staysDescription": "Zostel Barot (Rajgundha) in Kangra provides adults-only accommodation with a shared lounge and a garden. Private parking can be arranged at an extra charge.",
+                "rate": "699"
+            }
+        ]
+    },
+
+    {
+
+        "Id": "66",
+        "type": "Zostel Plus",
+        "Image": "https://tse2.mm.bing.net/th?id=OIP.msVgAN2MKinP0XRIYOz0HAHaF7&pid=Api&P=0&w=192&h=153",
+        "Name": "Bir",
+        "Description": "Zostel Plus Bir in Bīr provides adults-only accommodation with a restaurant, a shared lounge and a garden.",
+        "stays": [{
+            "staysName": "Zostel Plus Lonavala",
+            "staysImage": "https://tse3.mm.bing.net/th?id=OIF.riheP1eGJhC20yLk6wRlPg&pid=Api&P=0&w=300&h=300",
+            "staysDescription": "Zostel Plus Lonavala is a luxury stay in Lonavala, featuring jacuzzi cottages with lake view, a swimming pool and game rooms, a cafe, and swanky common areas to unwind and party.",
+            "rate": "899"
+        }]
+    }
+
+
+]
+}

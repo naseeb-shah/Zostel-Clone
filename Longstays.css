@@ -1,0 +1,146 @@
+/* Header-of-longstay */
+.Header-LongStay{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+.Header-LongStay>div{
+    text-align: center;
+}
+
+/* Banner-image */
+.Banner-top{
+  display: block;
+  text-align: center;
+  border-radius: 40px;
+}
+
+  .Banner-top>div>img{
+    border-radius: 10px;
+    width: 90%; 
+    height: 76rem;
+  }
+/* subheading-longstay */
+.sub-heading{
+    display: block;
+    
+}
+.sub-heading>div>h4{
+    text-align: center;
+}
+/* card-main div */
+.Features-main{
+    display: inline;
+
+}
+
+/* 1st-row 3 cards */
+.cardscontainer-main{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.cardscontainer-main>div{
+    padding: 45px;
+}
+.cardscontainer-main>div>img{
+    border-radius: 10px;
+}
+
+
+/* Faq css */
+
+
+
+
+
+
+::before,
+::after{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: inherit;
+}
+html{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 10px;
+    box-sizing: border-box;
+}
+section{
+    width: 100%;
+    height: 100vh;
+    margin-top: autoS;
+    /* background-color:  #e7d5ff; */
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.container2{
+    width: 100%;
+    max-width: 80rem;
+    margin: 0 auto ;
+    padding: 0 1.5rem;
+}
+.acording-items{
+    /* background-color:#e7d5ff;; */
+    border-radius: 0.4rem;
+    margin-bottom: 1rem;
+    padding: 1rem;
+    border: 1px solid #e7d5ff;
+    box-shadow: 0.5rem 2px .5rem black;
+
+}
+.acoding-link{
+    font-size: 1.5rem;
+    color: #e7d5ff;
+    text-decoration: none;
+    /* background-color: #283042; */
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 0;
+
+}
+.acoding-link i{
+    color: #e7d5ff;
+    padding: 0.5rem;
+}
+.acoding-link .remove{
+    display: none;
+}
+.answer{
+    max-height: 0;
+    overflow: hidden;
+    position: relative;
+ background-color: #f8fbff;  
+ transition: max-height 650ms;
+ 
+}
+.answer::before{
+    content: "";
+    position: absolute;
+    width: .8rem;
+    height: 90%;
+     /* background-color: #8fc48f; */
+     top: 50%;
+     left: 0;
+     transform: translateY(-50%);
+    
+}
+.answer p{
+    /* color: rgba(255, 255, 255, 0);  */
+ font-size: 1.4rem;
+    padding: 2rem;
+}
+.acording-items:target .answer{
+max-height: 20rem;
+}
+.acording-items:target .acoding-link .add{
+  display: none;
+}
+.acording-items:target .acoding-link .remove{
+    display: block;
+  }
+  section{
+      margin-bottom: 7.5vh;
+  }

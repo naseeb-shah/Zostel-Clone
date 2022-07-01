@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Destination</title>
+    <link rel="stylesheet" href="Media_header.css">
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+    <link rel="stylesheet" href="header.css">
+    <link rel="stylesheet" href="destination.css">
+    <link rel="stylesheet" href="./footer.css">
+</head>
+
+<body>
+    <div id="navbar"></div>
+    <div id="responsive_nav">
+        <img onclick='changelocation()'
+            src="https://tse4.mm.bing.net/th?id=OIP.MJHKIyQFtgiaKLLHXtzbPwHaCA&pid=Api&P=0&w=252&h=68" alt="">
+        <span class="material-symbols-outlined" onclick="show_responsive_navbar()">menu</span>
+    </div>
+    <div id="responsive_navbar_boxa"></div>
+    <!-- navbar -->
+    <div>
+
+        <h2 style="text-align:center;font-size:30px;padding-top:30px;padding-bottom:30px;">Explore <strong
+                style="color:rgba(241,88,36);">Destinations</strong></h2>
+    </div>
+    <!-- body -->
+    <div>
+        <div id="sai">
+        </div>
+    </div>
+
+    <div id="footernormal"></div>
+</body>
+
+
+<script src="destination.js">
+</script>
+
+</html>
+<script src="header.js"></script>
+<script type="module">
+    import nav from './import_header.js'
+    document.getElementById("navbar").innerHTML=nav()
+
+    import get_responsive_navbar from './Media_header_import.js'
+    document.getElementById("responsive_navbar_boxa").innerHTML=get_responsive_navbar();
+
+    import footernorm from './footer.js'
+    document.getElementById("footernormal").innerHTML=footernorm()
+    
+
+</script>
+
+<script>
+    const show_responsive_navbar = () => {
+        console.log(1)
+        // if(document.getElementById("respnonsive_navbar_main_body").style.display === 'none'){
+        document.getElementById("respnonsive_navbar_main_body").style.display = 'flex'
+        // } 
+    }
+    const hide_responsive_navbar = () => {
+        // if(document.getElementById("respnonsive_navbar_main_body").style.display != 'none'){
+        document.getElementById("respnonsive_navbar_main_body").style.display = 'none'
+    }
+    // }
+</script>

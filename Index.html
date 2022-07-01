@@ -1,0 +1,578 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="Media_header.css">
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+    <link rel="stylesheet" href="header.css">
+    <link rel="stylesheet" href="./Main_page_input.css">
+    <link rel="stylesheet" href="Main.css">
+    <link rel="stylesheet" href="./footer.css">
+</head>
+
+<body>
+    <div id="nav"></div>
+    <div id="responsive_nav">
+        <img onclick='changelocation()' src="https://tse4.mm.bing.net/th?id=OIP.MJHKIyQFtgiaKLLHXtzbPwHaCA&pid=Api&P=0&w=252&h=68" alt="">
+        <span class="material-symbols-outlined" onclick="show_responsive_navbar()">menu</span>
+    </div>
+    <div id="responsive_navbar_box"></div>
+    <div id="slidebox">
+        <div id="innerslidebox">
+            <img id="slideimg1"
+                src="https://img.cdn.zostel.com/cache/_bf6718c9924a17253c3e7a8bcc4640d8/Landing_Page_Photo_1400x600.jpg"
+                alt="">
+            <img id="slideimg2" src="https://img.cdn.zostel.com/cache/_606bf1e904105f3f61aa7abae817ba89/2_1400x600.jpg"
+                alt="">
+            <img id="slideimg3"
+                src="https://img.cdn.zostel.com/cache/_59a0044cad4d16d4f4075657c2adb902/5_1_1400x600.jpg" alt="">
+            <img id="slideimg4" src="https://img.cdn.zostel.com/cache/_1702bd3ab45e20acabe0c783694e8c73/4_1400x600.jpg"
+                alt="">
+        </div>
+    </div>
+    <h1 id="liveitnow">Live it. Now</h1>
+    <div id="location_input_box"></div>
+    <div id="boxOnSlider"></div>
+
+    <!-- ----------------------------------------------------------------------------------- -->
+
+    <div id="outer_slider_below_main_slider">
+        <div id="inner_slider_below_main_slider"></div>
+    </div>
+    <div id="slide_left1_btn" onclick="slide1_left()">
+        <p>‹</p>
+    </div>
+    <div id="slide_right1_btn" onclick="slide1_right()">
+        <p>›</p>
+    </div>
+
+    <!-- ----------------------------------------------------------------------------------- -->
+
+    <div id="whats_new_div">
+        <h1>Whats's <span style="color: rgb(241,88,36);">New</span></h1>
+    </div>
+    <div id="whatsnewcard_body">
+        <div id="whatsnewcard">
+            <div id="innerwhatsnewcard">
+                <!-- <div id="innestwhatsnewcard">
+                <img src="https://img.cdn.zostel.com/zostel/cards/whats_new/None/20220406093327.jpg" alt="">
+                <h1>Zostel Home Kibber is back!</h1>
+                <p>Experience Spiti's remotest paths with our traditional homestay in the village of snow leopards.</p>
+                <p>Status</p>
+                </div>
+            </div> -->
+            </div>
+        </div>
+        <span id='left_button' onclick="slide2_left()"> ‹ </span>
+        <span id='right_button' onclick="slide2_right()"> ›</span>
+
+        <div id="featured_property_div">
+            <h1><span style="color: rgb(241,88,36);"> Featured</span> Property</h1>
+        </div>
+
+
+        <!-- ---------------------------------------------------------------------------------- -->
+
+        <div id="featured_properties">
+            <div id="featured_property_first_child">
+                <img src="https://img.cdn.zostel.com/zostel/gallery/images/zI3DUbkCS-O15qHh_OETtQ/spiti-exterior-milky-way-20201105115216.jpg"
+                    alt="">
+                <h3>Zostel Spiti</h3>
+                <p>Zostel Spiti has the distinctio...</p>
+            </div>
+            <div id="featured_property_second_child">
+                <img src="https://img.cdn.zostel.com/zostel/gallery/images/wQostbYDThySaPFyMiVSqQ/barot-rajgundha-20201112104634.jpeg"
+                    alt="">
+                <h3>Zostel Barot (Rajgundha)</h3>
+                <p>Resting sheduled in the snow...</p>
+            </div>
+            <div id="featured_property_third_child">
+                <img src="https://img.cdn.zostel.com/zostel/gallery/images/mrysPte8QmKiBwe7cdHHMg/ooty-20201112105318.jpg"
+                    alt="">
+                <h3>Zostel Ooty</h3>
+                <p>Situated in the lap of nature,...</p>
+            </div>
+            <div id="featured_property_fourth_child">
+                <img src="https://img.cdn.zostel.com/zostel/gallery/images/aHFewfv2QIOIZX4Zi3bpUA/zostel-kodaikanal-hostel-20201105110219.jpg"
+                    alt="">
+                <h3>Zostel Kodaikanal</h3>
+                <p>Zostal kodaikanal is a beautif...</p>
+            </div>
+            <div id="featured_property_fifth_child">
+                <img src="https://img.cdn.zostel.com/zostel/gallery/images/cp1TEJ6kRv-zbtq1gdBNyw/zostel-mussoorie-20201105114245.jpg"
+                    alt="">
+                <h3>Zostel Plus Mussorrie</h3>
+                <p>Built on a sprawled land overl...</p>
+            </div>
+        </div>
+
+        <!-- ---------------------------------------------------------------------------------- -->
+        <div id="zostal_esacpe_h1" style="background-color: rgb(232,240,242);">
+            <h1><span style="color: rgb(241,88,36);"> Zostal</span> Escape </h1>
+        </div>
+
+        <div style="background-color: rgb(232,240,242);" id="zostal_escap_cards_outer_box_body">
+            <div id="zostal_escap_cards_outer_box">
+                <div class="zostal_esacpe_cards_inner_box">
+                    <img src="https://img.cdn.zostel.com/escape/360%20Trek/07_V2.jpg" alt="">
+                    <div class="zostal_esacpe_cards_inner_box_h">
+                        <h2>360 Trek</h2>
+                    </div>
+                    <p>Bir</p>
+                    <div class="zostal_esacpe_cards_inner_box_money">
+                        <p>₹ 3100 onwards</p>⭐4.8 Rating
+                    </div>
+                    <div class="zostal_esacpe_cards_inner_box_time">
+                        <p>🕘 2Days</p>
+                        <p>💬 5Reviews</p>
+                    </div>
+                    <div class="zostal_esacpe_cards_inner_box_btn">Explore Now</div>
+                </div>
+                <div class="zostal_esacpe_cards_inner_box">
+                    <img src="https://img.cdn.zostel.com/escape/Exploring%20Spiti%20Valley%3A%20Shimla%20to%20Manali%2012th%20June%202022/Spiti_website_banner.jpg"
+                        alt="">
+                    <div class="zostal_esacpe_cards_inner_box_h">
+                        <h2>Exploring Spiti Valley:Shimla to Manali 12th june 2022</h2>
+                    </div>
+                    <p>Bir</p>
+                    <div class="zostal_esacpe_cards_inner_box_money">
+                        <p>₹ 3100 onwards</p>⭐4.8 Rating
+                    </div>
+                    <div class="zostal_esacpe_cards_inner_box_time">
+                        <p>🕘 2Days</p>
+                        <p>💬 5Reviews</p>
+                    </div>
+                    <div class="zostal_esacpe_cards_inner_box_btn">Explore Now</div>
+                </div>
+                <div class="zostal_esacpe_cards_inner_box">
+                    <img src="https://img.cdn.zostel.com/escape/Exploring%20Spiti%20Valley%3A%20Shimla%20to%20Manali%2012th%20June%202022/Spiti_website_banner.jpg"
+                        alt="">
+                    <div class="zostal_esacpe_cards_inner_box_h">
+                        <h2>Exploring Spiti Valley:Shimla to Manali 25th june 2022</h2>
+                    </div>
+                    <p>Bir</p>
+                    <div class="zostal_esacpe_cards_inner_box_money">
+                        <p>₹ 3100 onwards</p>⭐4.8 Rating
+                    </div>
+                    <div class="zostal_esacpe_cards_inner_box_time">
+                        <p>🕘 2Days</p>
+                        <p>💬 5Reviews</p>
+                    </div>
+                    <div class="zostal_esacpe_cards_inner_box_btn">Explore Now</div>
+                </div>
+                <div class="zostal_esacpe_cards_inner_box">
+                    <img src="https://img.cdn.zostel.com/escape/Exploring%20Spiti%20Valley%3A%20Shimla%20to%20Manali%2012th%20June%202022/Spiti_website_banner.jpg"
+                        alt="">
+                    <div class="zostal_esacpe_cards_inner_box_h">
+                        <h2>Exploring Spiti Valley:Shimla to Manali 4th june 2022</h2>
+                    </div>
+                    <p>Bir</p>
+                    <div class="zostal_esacpe_cards_inner_box_money">
+                        <p>₹ 3100 onwards</p>⭐4.8 Rating
+                    </div>
+                    <div class="zostal_esacpe_cards_inner_box_time">
+                        <p>🕘 2Days</p>
+                        <p>💬 5Reviews</p>
+                    </div>
+                    <div class="zostal_esacpe_cards_inner_box_btn">Explore Now</div>
+                </div>
+            </div>
+        </div>
+
+        <div id="Award_and_media">
+            <h1><span style="color: rgb(241,88,36);"> Awards</span> And<span style="color: rgb(241,88,36);">
+                    Media</span></h1>
+        </div>
+        <div id="last_slider_outer">
+            <div id="last_slider_inner"></div>
+        </div>
+        <div id='left3_button' onclick="slide3_left()"> ‹ </div>
+        <div id='right3_button' onclick="slide3_right()"> ›</div>
+        <div id="zostal_esacpe_h1" style="background-color: rgb(232,240,242);">
+            <h1><span style="color: rgb(241,88,36);"> Latest</span> Read </h1>
+        </div>
+
+
+        <div id="latest_read_div_cover">
+            <div id="latest_read_div">
+                <div class="latest_read_div_child">
+                    <img src="https://img.cdn.zostel.com/blog_photo/Lonaaa_1.jpg" alt="">
+                    <div>
+                        <h3>Rediscover Lonavla: A Guide To Maharas...</h3>
+                    </div>
+                    <div>
+                        <h5>With Zostel plus Lonavla, you have more than on...</h5>
+                    </div>
+                    <div>
+                        <p>pranavai chhikiwala</p>
+                    </div>
+                </div>
+                <div class="latest_read_div_child">
+                    <img src="https://img.cdn.zostel.com/blog_photo/047_Room2_01.jpg" alt="">
+                    <div>
+                        <h3>A backpacker's guide to explore Lahau...</h3>
+                    </div>
+                    <div>
+                        <h5>Explore the best of Lahaul, Himachal pradesh wit...</h5>
+                    </div>
+                    <div>
+                        <p>pranavai chhikiwala</p>
+                    </div>
+                </div>
+                <div class="latest_read_div_child">
+                    <img src="https://img.cdn.zostel.com/blog_photo/128_Munnar_261.jpg" alt="">
+                    <div>
+                        <h3>Munnar for Backpackers, Hike,Dive,Cam...</h3>
+                    </div>
+                    <div>
+                        <h5>Explore Munnar the backpacker way with Zostel...</h5>
+                    </div>
+                    <div>
+                        <p>pranavai chhikiwala</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+   <div id="footernormal"></div>
+</body>
+
+</html>
+<!-- <script type="module">
+    import nav from './import_header.js'
+    document.getElementById("nav").innerHTML=nav()
+
+    import get_responsive_navbar from './Media_header_import.js'
+    document.getElementById("responsive_navbar_box").innerHTML=get_responsive_navbar();
+
+    import footernorm from './footer.js'
+    document.getElementById("footernormal").innerHTML=footernorm()
+    
+
+</script> -->
+<script type="module">
+    import nav from './import_header.js'
+    document.getElementById("nav").innerHTML=nav()
+
+    import get_responsive_navbar from './Media_header_import.js'
+    document.getElementById("responsive_navbar_box").innerHTML=get_responsive_navbar();
+
+    import footernorm from './footer.js'
+    document.getElementById("footernormal").innerHTML=footernorm()
+
+</script>
+<script src="./header.js"></script>
+<script>
+    const show_responsive_navbar = () => {
+        console.log(1)
+        // if(document.getElementById("respnonsive_navbar_main_body").style.display === 'none'){
+        document.getElementById("respnonsive_navbar_main_body").style.display = 'flex'
+        // } 
+    }
+    const hide_responsive_navbar = () => {
+        // if(document.getElementById("respnonsive_navbar_main_body").style.display != 'none'){
+        document.getElementById("respnonsive_navbar_main_body").style.display = 'none'
+    }
+    // }
+
+    // C:\Users\MD SHAHBAZ ALAM\Documents\GitHub\Zostel-Clone\import_header.js
+
+
+
+
+
+
+
+
+    let box = document.getElementById("slidebox")
+    let image1 = document.getElementById("slideimg1")
+    let image2 = document.getElementById("slideimg2")
+    let image3 = document.getElementById("slideimg3")
+    let image4 = document.getElementById("slideimg4")
+    let i = 0;
+    const slide = () => {
+        if (i === 0) {
+            // console.log(i)
+            image1.style.transform = "translateX(0vw)"
+            image2.style.transform = "translateX(0vw)"
+            image3.style.transform = "translateX(0vw)"
+            image4.style.transform = "translateX(0vw)"
+            i++
+            setTimeout("slide()", 2000)
+        } else if (i === 1) {
+            // console.log(i)
+            image1.style.transform = "translateX(-98vw)"
+            image2.style.transform = "translateX(-98vw)"
+            image3.style.transform = "translateX(-98vw)"
+            image4.style.transform = "translateX(-98vw)"
+            i++
+            setTimeout("slide()", 2000)
+        } else if (i === 2) {
+            // console.log(i)
+            image1.style.transform = "translateX(-196vw)"
+            image2.style.transform = "translateX(-196vw)"
+            image3.style.transform = "translateX(-196vw)"
+            image4.style.transform = "translateX(-196vw)"
+            i++
+            setTimeout("slide()", 2000)
+        } else if (i === 3) {
+            // console.log(i)
+            image1.style.transform = "translateX(-294vw)"
+            image2.style.transform = "translateX(-294vw)"
+            image3.style.transform = "translateX(-294vw)"
+            image4.style.transform = "translateX(-294vw)"
+            i = 0
+            setTimeout("slide()", 2000)
+        }
+    }
+    slide()
+
+
+    // ----------------------------------------------------------------------------------------
+
+
+    const whats_new = [{
+            Image: "https://img.cdn.zostel.com/zostel/cards/whats_new/None/20220406093327.jpg",
+            Name: "Zostel Home Kibber is back!",
+            Description: "Experience Spiti's remotest paths with our traditional homestay in the village of snow leopards.",
+            Status: "REOPENING"
+        },
+        {
+            Image: "https://img.cdn.zostel.com/zostel/cards/whats_new/10/20220506075541.jpg",
+            Name: "Introducing Zostel Vashisht!",
+            Description: "Bringing to you a remarkable new hostel to chilli in manali with stunning mountain views a hi...",
+            Status: "LAUNCH"
+        },
+        {
+            Image: "https://img.cdn.zostel.com/zostel/cards/whats_new/None/20220425080935.jpg",
+            Name: "Introducing Zostel homes Ramgarh(Nainital)!",
+            Description: "Our first Home in Uttarakhand, Zostel Home Ramgarh is allabout a rejuvenating mountain Gateway...",
+            Status: "LAUNCH"
+        },
+        {
+            Image: "https://img.cdn.zostel.com/zostel/cards/whats_new/None/20220411133518.jpg",
+            Name: "Introducing Zostel Sangla!",
+            Description: "Our third addition to Himachal's Lesser-explored Kinnaur Zostel sangla is settled amidst apple! ",
+            Status: "LAUNCH"
+        },
+        {
+            Image: "https://img.cdn.zostel.com/zostel/cards/whats_new/None/20220407125957.jpg",
+            Name: "Explore Shrinagar with ZOstel this year!",
+            Description: "for The first Time after pandemic,Zostel Shrinagar is welcomming travellers. check out o...",
+            Status: "REOPENING"
+        },
+        {
+            Image: "https://img.cdn.zostel.com/zostel/cards/whats_new/None/20220406093327.jpg",
+            Name: "Remote Himachal Open for Summer!",
+            Description: "plan your escape for spiti,chitkul,shishu and Rashil(Lahaul) Berot(Rajgunda) here.",
+            Status: "REOPENING"
+        },
+        {
+            Image: "https://img.cdn.zostel.com/zostel/cards/whats_new/5/20220328084209.jpg",
+            Name: "Introducing Zostel Plus Lonavla",
+            Description: "Premium jacuzzi cottages,swimmimg pool with a view,weekend parties & more ensuses a... ",
+            Status: "LAUNCH"
+        },
+        {
+            Image: "https://img.cdn.zostel.com/zostel/cards/whats_new/None/20220325141837.png",
+            Name: "World First travel NFTs by Zostel!",
+            Description: "Zostel brings you Zo world Founder NFTs world's first travel NFTs.By a founder NFT, to become a...",
+            Status: "LAUNCH"
+        },
+        {
+            Image: "https://img.cdn.zostel.com/zostel/cards/whats_new/None/20220325141818.jpg",
+            Name: "Travel Web Series- 'Roam OK Please!",
+            Description: "Zostel brings to u our very own travel series, 'Ram OK Please' Explore India's More Incredible...",
+            Status: "LAUNCH"
+        },
+        {
+            Image: "https://img.cdn.zostel.com/zostel/cards/whats_new/None/20220314110643.jpeg",
+            Name: "Zostel- Now in Dobhi!",
+            Description: "Introducing Zostel Dobhi, our former homestay revamped in to a happening new hostel in fojel...",
+            Status: "LAUNCH"
+        }
+    ]
+
+    let whatsnewcard_box = document.getElementById("innerwhatsnewcard")
+    whatsnewcard_box.innerHTML = ``
+
+    const get = (whats_new) => {
+        whats_new.forEach((ele) => {
+            let div = document.createElement("div")
+            div.innerHTML = ``
+            div.innerHTML = `<div id="innestwhatsnewcard">
+            <img src=${ele.Image} alt="">
+            <h3 id="innestwhatsnewcardh3">${ele.Name}</h3>
+            <p>${ele.Description}</p>
+            <button class='book_now_button'> Book Now</button>
+            </div>
+            </div>
+            `
+            whatsnewcard_box.append(div)
+        })
+    }
+    get(whats_new)
+
+    var count = 1
+    const slide2_left = () => {
+        if (count === 0) {
+            console.log(count)
+            document.getElementById("left_button").style.color = 'rgb(234, 158, 133)'
+            document.getElementById("right_button").style.color = ' rgb(241,88,36)'
+            document.getElementById("innerwhatsnewcard").style.transform = 'translateX(0vw)'
+            document.getElementById("innerwhatsnewcard").style.transition = '1s'
+            count = 1
+        }
+        //  console.log(count)
+    }
+    const slide2_right = () => {
+        if (count === 1) {
+            console.log(count)
+            document.getElementById("right_button").style.color = 'rgb(234, 158, 133)'
+            document.getElementById("left_button").style.color = ' rgb(241,88,36)'
+            document.getElementById("innerwhatsnewcard").style.transform = 'translateX(-90.5vw)'
+            document.getElementById("innerwhatsnewcard").style.transition = '1s'
+            count = 0
+        }
+    }
+
+
+
+    const Awards_and_media = [{
+            Image: "https://img.cdn.zostel.com/cache/_84fa6c15c7c951ca462e52249af390f4/TRIP_advisor_200-2_140x140.jpg",
+            Name: "Award",
+            Description: "Certificate of excellence",
+            Status: "Zostel was awarded with this certification"
+        },
+        {
+            Image: "https://img.cdn.zostel.com/cache/_89e2b2a63b529b116d3655245125554c/Hoscars_140x140.jpg",
+            Name: "Award",
+            Description: "Best Hotel in India-2015",
+            Status: "Hostelworld award for Best Hotel in India"
+        },
+        {
+            Image: "https://img.cdn.zostel.com/cache/_cb0ce6266dc49cf0f33376707557f36b/44e29395ae16f55ecd337871b5c94c7c_400x400_140x140.jpg",
+            Name: "Media",
+            Description: "Entrepreneurship Program-Zostel",
+            Status: "Zostel launches EDP- helps people start hostels"
+        },
+        {
+            Image: "https://img.cdn.zostel.com/cache/_8b51e5fc8775ddd32c76a50127fc74f0/Nat_Geo_200-2_140x140.jpg",
+            Name: "Press",
+            Description: "The Best Hotel in India ",
+            Status: "Revolutionising The way people traveling in India"
+        },
+        {
+            Image: "https://img.cdn.zostel.com/cache/_f10d134ed20d039cec34c0465c31cb1e/ttf_logo_6782_140x140.jpg",
+            Name: "Award",
+            Description: "Best Value Leisure product-2015",
+            Status: "Awarded by India's largest travel trade show"
+        },
+        {
+            Image: "https://img.cdn.zostel.com/cache/_3eb08c6992bfe8436b7b5834bf99ad30/C3fgJ6OWIAAWLBM.jpg-large_140x140.jpg",
+            Name: "Award",
+            Description: "Best Hotel in India 2017",
+            Status: "Hostelworld award for Best Hotel in India"
+        },
+        {
+            Image: "https://img.cdn.zostel.com/cache/_a071cbb4dbfe7b8d11d2951f5e1f572c/Best_Hostel_in_Nepal_140x140.jpg",
+            Name: "Award",
+            Description: "Best Hostel in Nepal-2019",
+            Status: "Hostelworld award for Best Hotel in Nepal"
+        },
+        {
+            Image: "https://img.cdn.zostel.com/cache/_f96f13896332b283beb86509d653bea2/175x175bb_140x140.jpg",
+            Name: "Media",
+            Description: "Zostel Ideal Stay for solo females",
+            Status: "Safe,fun stay option for female solo travellers"
+        },
+        {
+            Image: "https://img.cdn.zostel.com/cache/_93f8d46a358ec59ae925f603ca34b3bc/Hoscar_Badges_2020_223_140x140.jpg",
+            Name: "Award",
+            Description: "Best Hostel in Nepal-2020",
+            Status: "Hostelworld award for Best Hotel in Nepal"
+        },
+        {
+            Image: "https://img.cdn.zostel.com/cache/_2f669d9bb4aad5fff6c0345bc19e5496/IE_Square_Logo_140x140.jpg",
+            Name: "Media",
+            Description: "Zostel India's first hostel chain",
+            Status: "Zostel makes travelling India comfortable"
+        }
+    ]
+
+    let Awards_and_media_box = document.getElementById("last_slider_inner")
+    Awards_and_media_box.innerHTML = ``
+    Awards_and_media.forEach((ele) => {
+        // console.log(ele)
+        const {
+            Image,
+            Name,
+            Description,
+            Status
+        } = ele
+        let div = document.createElement("div")
+        div.innerHTML = `
+      <div class='last_slider_innest'>
+        <img src=${Image} />
+        <h5>${Name}</h5>
+        <h4>${Description}</h4>
+        <h6>${Status}</h6>
+        </div>
+        `
+        // div.setAttribute("class","last_slider_innest")
+        Awards_and_media_box.append(div)
+    })
+
+    let last_slide_count = 0;
+    const slide3_left = () => {
+        if (last_slide_count === 1) {
+            document.getElementById("left3_button").style.color = 'rgb(234, 158, 133)'
+            document.getElementById("right3_button").style.color = 'rgb(241,88,36)'
+            document.getElementById("last_slider_inner").style.transform = 'translateX(0vw)'
+            document.getElementById("last_slider_inner").style.transition = '1s'
+            last_slide_count = 0
+        }
+    }
+
+    const slide3_right = () => {
+        if (last_slide_count === 0) {
+            document.getElementById("right3_button").style.color = 'rgb(234, 158, 133)'
+            document.getElementById("left3_button").style.color = 'rgb(241,88,36)'
+            document.getElementById("last_slider_inner").style.transform = 'translateX(-80vw)'
+            document.getElementById("last_slider_inner").style.transition = '1s'
+            last_slide_count = 1
+        }
+    }
+</script>
+<!-- color: rgb(234, 158, 133);
+color: rgb(241,88,36); -->
+
+<script src="Main_page_input.js"></script>
+<script src="slider.js"></script>
+
+<script type="module">
+    import input_box from './Main_page_input_component.js'
+    document.getElementById("location_input_box").innerHTML=input_box()
+    // console.log(input_box())
+
+
+    
+</script>
+<!-- C:\Users\MD SHAHBAZ ALAM\Documents\GitHub\Zostel-Clone\slider1_import.js -->
+<!-- C:\Users\MD SHAHBAZ ALAM\Documents\GitHub\Zostel-Clone\Main.html -->
+
+<!-- summary
+Eduacation
+Achievements
+skills
+project
+I'm an information science and engineering graduate who has been dabbling with innovative product
+designing and problem solving for the past few years and I have loved every bit of it.I want to help in
+building and developping products that allow people to make their life better comfortable simple and beautifull.
+glasscord
+my contribution will -->
+<!-- 🧭  ⭐  🕖🕗 🕘 🕞🗨💬 -->

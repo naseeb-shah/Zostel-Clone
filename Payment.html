@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Payment</title>
+    <link rel="stylesheet" href="./payment.css">
+</head>
+<body>
+    <div id="zostel_logo">
+        <img src="https://tse4.mm.bing.net/th?id=OIP.MJHKIyQFtgiaKLLHXtzbPwHaCA&pid=Api&P=0&w=252&h=68" >
+    </div>
+    <div id="juspay_image">
+        <img src="https://api.juspay.in/images/juspay/jp-logo-v3.1.1.png" >
+    </div>
+
+    <div id="payment_layout">
+
+    <div id="title">Complete your payment</div>
+
+    <div id="trans_details"> 
+        <div class="img"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRanpwruhtbkGGhQTUTndEVj99m67fF15P43A&usqp=CAU" alt=""></div>
+        <div> <h5>Your transaction details</h5></div>
+     </div>
+     <div><table class="table table-striped">
+        <tbody><tr>
+          <td>Merchant</td>
+          <td>Zostel</td>
+        </tr>
+        <tr>
+          <td>Order Id</td>
+          <td>H4LIJM2X3E</td>
+        </tr>
+        
+        <tr>
+          <td>Amount</td>
+          <td class="amount">
+            ₹ 660.03
+          </td>
+        </tr>
+      </tbody>
+    </table>
+</div>
+
+<div id="payment_options">
+    <div>
+        <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Office_action.svg/96px-Office_action.svg.png" alt="">
+     <h5 >Payment options </h5>
+</div>
+    <div style="margin-top:-10px;font-family:Helvetica NeueHelvetica,Arial,sans-serif;color: #08c">
+         <p><a href="#" style="font-size:12px;color:#0f8ec5;">
+   Secured by JusPay Locker<sup>TM</sup>. Learn more.</a>
+         </p>
+    </div>
+ </div>
+
+
+    <div id="payment_type">
+     <div>Credit/Debit card</div>
+     <div>Net Banking</div>
+     <div>Wallets</div>
+</div>
+     
+
+      <div class="payment_details_form"> 
+          <div class="card_details">
+               <label class="label_in">Card number <span style="color:red">*</span></label>
+                <input type="text" placeholder="Card Number" id="cardNumber" required  >
+                <img src="https://usa.visa.com/dam/VCOM/regional/ve/romania/blogs/hero-image/visa-logo-800x450.jpg" alt="">
+                <img src="https://logos-world.net/wp-content/uploads/2020/09/MasterCard-Logo-1996-2016-700x394.png" alt="">
+            </div>
+           
+        <div class="card_details" >
+            <label class="label_in">Name on card<span style="color:red">*</span></label>
+            <input type="text" placeholder="Name"  id="name" required>
+        </div>
+
+        <div class="card_details">
+            <div style="display:flex"> 
+                <label class="label_in">Expiry(MM/YY)<span style="color:red">*</span></label>
+                <input type="month" id="expiry" required>
+            </div>
+            <div class="card_details">
+                <span id="cvv_lab" class="label_in" id="cvv_sty">CVV <span style="color:red">*</span></span>
+                <input type="password" placeholder="CVV" id="cvv_in" required>
+        </div>
+        </div>
+       
+   </div>
+ <div id="save_card_details">
+     <div style="display:flex;margin-top: -7px;">
+         <input id="checkbox" type="checkbox">
+            <p>(Save card details for future transactions.)</p>
+        </div>
+            
+        </div>
+              <div class="actions">
+                    <button  onclick="payment()">Make Payment
+                        <span   id="pay_amount"class="amount">
+                     
+                    </span></button>
+                     
+                </div>
+            
+                <div class="trust-part">
+                   <img src="https://www.paymentscardsandmobile.com/wp-content/uploads/2017/05/verified_by_visa-300x129.jpg" alt="">
+                   <img src="https://eu.gamesrocket.com/media/wysiwyg/content_sites/payment_logos/mastercard-securecode.png" alt="">
+                   <img src="https://www.axisrooms.com/wp-content/uploads/2018/10/916153-832x350.jpg" alt="">
+                   <img src="https://api.juspay.in/images/powered-by-juspay.png"> 
+                </div>
+
+</div>   
+</body>
+<script src="./payment.js"></script>
+</html>

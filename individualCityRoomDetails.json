@@ -1,0 +1,55 @@
+{
+    "roomDetails":[
+        {
+            "code":"ARNH184",
+            "images":["https://img.cdn.zostel.com/zostel/gallery/images/7x147f3PQmOuOrb_o1ez1A/zostel-aurangabad-20201105103524.jpg?w=1280","https://img.cdn.zostel.com/zostel/gallery/images/Naz8nD7YTcKKFgmtJcBbHg/zostel-aurangabad-tv-area-20201105103528.jpg?w=1280","https://img.cdn.zostel.com/zostel/gallery/images/-UQ1AE23QtGdJj1MyJ9NyQ/zostel-aurangabad-alley-20201105103530.jpg?w=1280","https://img.cdn.zostel.com/zostel/gallery/images/KKQUvDOKTN6t23hHg8bLsg/zostel-aurangabad-reception-20201105103533.jpg?w=1280"],
+            "name":"Zostel Aurangabad",
+            "description": "<p>Zostel Aurangabad, the liveliest backpacker hostel in Aurangabad, is located just 7 km from the Aurangabad Airport and 3.4 km from Aurangabad Railway station. Don’t mistake Aurangabad to be just the land of Ajanta &amp; Ellora Caves and explore the cultural heritage it holds so dearly. Besides this, there are old forts and more for the history lovers, art galleries and museums for the art lovers and the endless Food scene for the foodies! Take a walk at Siddarth Garden while the sun sets and you will realise you have found a place you will never want to leave. Come and stay at our cosy hostel and experience Aurangabad like a local!</p>",
+            "rooms": [
+                {
+                    "name":"8 Bed Mixed Dorm (Shared Washroom)",
+                    "occupancy":1,
+                    "description":"<p>A bed in 8 Bed Mixed Dorm (Shared Washroom)</p>",
+                    "roomImage": "https://img.cdn.zostel.com/zostel/gallery/images/0xh1a-KdRqW7CCg8cTNz6g/8-bed-mixed-dorm-20201112104616.jpg",
+                    "price": 549,
+                    "amenities":"https://i.ibb.co/qJz4krN/amenities.png"
+                  
+                },
+
+                {
+                    "name":"Deluxe Twin Bed Private Room (ensuite)",
+                    "occupancy": "2",
+                    "description":"<p>Deluxe Twin Bed Private Room (ensuite) with 2 single bed</p>",
+                    "roomImage": "https://img.cdn.zostel.com/zostel/gallery/images/ryRWsN23TsOWUYVcSkCpMg/twin-bed-private-room-20201112104605.jpg",
+                    "price": 1799,
+                    "amenities":"https://i.ibb.co/qJz4krN/amenities.png"
+                  
+                },
+
+                {
+                    "name":"10 Bed Mixed Dorm (Shared Washroom)",
+                    "occupancy": "1",
+                    "description":"<p>A bed in 10 Bed Mixed Dorm (Shared Washroom)</p>",
+                    "roomImage": "https://img.cdn.zostel.com/zostel/gallery/images/7QT9-qdaQGiZcEk6kJUOhQ/zostel-aurangabad-10-bed-mixed-dorm-20201112104618.jpg",
+                    "price":499 ,
+                    "amenities":"https://i.ibb.co/qJz4krN/amenities.png"
+                  
+                },
+
+                {
+                    "name":"Deluxe Private Room (ensuite)",
+                    "occupancy":"2",
+                    "description":"<p>A Deluxe Private Room (ensuite) with Double Bed</p>",
+                    "roomImage":"https://img.cdn.zostel.com/zostel/gallery/images/zJjLGqpkQWuu528WD8NZRw/deluxe-private-room-20201112104611.jpg",
+                    "price": 1799,
+                    "amenities":"https://i.ibb.co/qJz4krN/amenities.png"
+                  
+                }
+
+            ],
+            "address": "<p>5-14-34, Adalat Road, Kranti Chowk, Aurangabad (Beside Raymond's Men Wear), Maharashtra-431001</p>",
+            "city":"Aurangabad",
+            "contact":"02248962270"
+        }
+    ]
+}

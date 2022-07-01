@@ -1,0 +1,306 @@
+
+#main_box{
+    display: flex;
+    width:100%;
+    margin: auto;
+    height: auto;
+}
+#confirmation-booking-heading{
+    display: flex;
+    font-size: 15px;
+    margin-top: 80px;
+}
+#confirmation-booking-heading>a{
+    width:20px;
+    padding:5px;
+    margin-right: 10px;;
+      vertical-align:baseline;
+}
+#input_box1{
+    width:65%;
+    margin-left: 5px;
+
+}
+#input_box{
+   
+    border:1px solid#d1d7dd;
+    height:520px;
+    margin-top: 25px;
+}
+
+.inp{
+    display: flex;
+    height:60px;
+    margin-top: 20px; 
+    margin-left: 15px;
+    padding:px;
+}
+.input_place_name{
+    font-size: 14px;
+    width:10%;
+    text-align: center;
+    height:60px;
+    padding:20px;
+    margin-left: -15px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.input_place_name_address{
+    height:100px;
+    margin: auto;
+}
+.input_place_name>label{
+vertical-align: middle;
+font-weight: bold;
+color:#606163
+}
+.input_typed_text_other{
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+    width:100%;
+    margin-left: 5%;
+    border-style: none;
+   padding-right: 15px;
+   
+}
+.input_typed_text_other input{
+    height: 60px;
+    width:100%;
+    border:1px solid#d1d7dd;
+    border-radius: 5px;
+}
+
+.input_typed_text_name{
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+    width:100%;
+    margin-left: 5%;
+    padding-right: 15px;
+}
+.input_typed_text_name input{
+    width:32.5%;
+    border-style: none;
+    border:1px solid#d1d7dd;
+    border-radius: 5px;
+     
+}
+
+#select_gender{
+    width:100%;
+    border-radius: 5px;
+    height:60px;
+    border-style: none;
+    border:1px solid#d1d7dd;
+    border-radius: 5px;
+}
+
+::placeholder{
+ font-size: 14px;
+  color: #606163;
+  padding: 15px;
+}
+#address_at{
+    height:100px;
+    margin: auto;
+    }
+#address_at_lable{
+    height:100px;
+    margin: auto;
+    vertical-align: middle;
+    text-align: center;
+
+
+}
+.guest-information{
+    display: flex;
+    justify-content: space-between;
+    border:1px solid#d1d7dd;
+    width:65%;
+    font-size: 16px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    height:63px;  
+    margin-left: 5px;
+    margin-bottom: -26px;
+    
+    margin-top: 20px;
+  
+}
+.guest-information h3{
+   margin-top: 20px;
+    color:#606163;
+    margin-left: 20px;
+}
+.guest-information2{
+    display: flex;
+    justify-content: space-between;
+    border:1px solid#d1d7dd;
+    width:100%;
+    font-size: 16px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    height:63px;  
+    margin-bottom: -26px;
+    margin-top: 20px;
+  
+}
+.guest-information2 h3{
+   margin-top: 20px;
+    color:#606163;
+    margin-left: 20px;
+}
+#added_link_info{
+    margin-top: 80px;
+}
+
+#added_link_info{
+    border-top:1px solid #d1d7dd;
+    padding:10px;
+    font-size: 14px;
+}
+.policy_info{
+    color:#606163;
+    width:100%;
+    border:1px solid#d1d7dd;
+    height:auto;
+  
+    margin-top: 25px;
+    padding:15px;
+    margin-right:30px;
+    font-family: CircularStd,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+}
+.policy_info>p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+#summary_box{
+
+    width:32%;
+    padding:10px;
+    margin: auto;
+    margin-top: -38px;
+    border:1px solid#d1d7dd;
+    border-radius: 5px;
+    margin-right: 15px;
+
+}
+#box_check{
+    display:flex;
+    justify-content: flex-start;
+    box-sizing: border-box;
+    border-style: solid;
+    border-color:white;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+#box_check>p{
+   color:#606163;
+   margin-left: 0.5rem;
+   font-size: 14px ;
+   font-family: Arial, Helvetica, sans-serif; ;
+}
+
+#summary>h3{
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.payment_table{
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.125rem;
+    font-weight: 600;
+
+
+}
+#hotel_dec{
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    font-weight: 500;
+}
+#hotel_dec img{
+margin-right: 15px;
+border-radius: 8px;
+}
+#hotel_dec>div{
+
+    margin: auto;
+
+}
+#after_img{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+   font-size: 13px;
+    }
+.payment_table{
+    margin-top: 10px;
+    font-family: CircularStd,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+    align-items: center;
+    padding:5px;
+    margin-bottom: 4px;
+    font-size: 1.125rem;
+    font-weight: 600;
+}
+#reserve_but{
+    display: flex;
+    justify-content: center;
+    width:100%;
+    height: 60px;
+    background-color: #96a4a9;
+    align-items: center;
+    vertical-align:baseline;
+    margin: auto;
+    letter-spacing: .025em;
+    padding-bottom: 1rem;
+    border-radius: 0.5rem;
+}
+#reserve_but>button{
+    border-radius: 0.5rem;
+width:80%;
+ margin: auto;
+ font-size: 1.1rem;
+   font-weight:600;
+border:none;
+margin-top: 18px;
+background-color: #96a4a9;
+align-items: center;
+vertical-align:baseline;
+color: white;
+}
+#hid_gue:hover{
+    cursor: pointer;
+}
+#hid_gue{
+    margin-top: 10px;
+    padding: 10px;
+}
+#hid_cov:hover{
+    cursor: pointer;
+}
+#hid_cov{
+    margin-top: 10px;
+    padding: 10px;
+}
+#hid_prop:hover{
+    cursor: pointer;
+}
+#hid_prop{
+    margin-top: 10px;
+    padding: 10px;
+}
+#hid_can:hover{
+    cursor: pointer;
+}
+#hid_can{
+    margin-top: 10px;
+    padding: 10px;
+}

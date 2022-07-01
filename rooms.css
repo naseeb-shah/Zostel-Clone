@@ -1,0 +1,338 @@
+#cityImages > img {
+  width: 100%;
+  margin-bottom: 1rem;
+  border-radius: 6px;
+}
+
+#cityImages {
+  width: 90%;
+  margin: auto;
+}
+
+#nameAmenities {
+  display: flex;
+  width: 90%;
+  margin: auto;
+  margin-bottom: 1rem;
+}
+#nameAmenities > div {
+  width: 50%;
+}
+.amenities h2 {
+  margin-left: 1.8rem;
+  margin-bottom: 2rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  --text-opacity: 1;
+  color: #0a181d;
+  color: rgba(10, 24, 29, var(--text-opacity));
+  font-family: Arial, Helvetica, sans-serif;
+}
+.amenities .alist {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.amenities .alist ul li {
+  list-style: none;
+  margin-bottom: 1rem;
+  --text-opacity: 1;
+  color: #4d585b;
+  color: rgba(77, 88, 91, var(--text-opacity));
+  font-size: 0.875rem;
+  font-weight: 500;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.cityDesc > p {
+  --text-opacity: 1;
+  color: #f15824;
+  color: rgba(241, 88, 36, var(--text-opacity));
+  font-size: 2.25rem;
+  font-weight: 900;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.cityDesc > p + p {
+  --text-opacity: 1;
+  color: #4d585b;
+  color: rgba(77, 88, 91, var(--text-opacity));
+  line-height: 1.5rem;
+  font-size: 1rem;
+  font-weight: 400;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#descClaendar h2 {
+  font-size: 1.875rem;
+  font-weight: 700;
+  --text-opacity: 1;
+  color: #0a181d;
+  color: rgba(10, 24, 29, var(--text-opacity));
+}
+#descClaendar p {
+  --text-opacity: 1;
+  color: #4d585b;
+  color: rgba(77, 88, 91, var(--text-opacity));
+  line-height: 1.5rem;
+  font-size: 0.875rem;
+  font-weight: 500;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#descClaendar > div {
+  margin: auto;
+  width: 60%;
+  margin-left: -1.5rem;
+}
+
+#calendar {
+  width: 45%;
+  border: 1px solid #cecece;
+  border-radius: 0.5rem;
+  display: flex;
+  background: #fff;
+  padding-top: 0.8rem;
+  padding-bottom: 0.8rem;
+  justify-content: space-around;
+}
+#calendar span {
+  font-size: 1.5rem;
+}
+#calendar #start,
+#end {
+  border: none;
+  outline: none;
+}
+
+#roomDetails {
+  display: flex;
+  width: 100%;
+  margin: auto;
+  --bg-opacity: 1;
+  background-color: #e8f0f2;
+  background-color: rgba(232, 240, 242, var(--bg-opacity));
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+}
+#roomDetails > #one {
+  width: 90%;
+  margin: auto;
+  display: flex;
+}
+
+#one > div {
+  width: 60%;
+}
+.summary {
+  text-align: left;
+  margin-left: 4rem;
+}
+.summary h2 {
+  margin-bottom: 1rem;
+}
+
+.summary > div {
+  display: flex;
+  justify-content: space-between;
+}
+
+.summary #roomName {
+  --text-opacity: 1;
+  color: #0a181d;
+  color: rgba(10, 24, 29, var(--text-opacity));
+  font-size: 1rem;
+  font-weight: 700;
+  margin-bottom: 0.3rem;
+}
+.summary #price {
+  --text-opacity: 1;
+  color: #0a181d;
+  color: rgba(10, 24, 29, var(--text-opacity));
+  margin-bottom: 1.2rem;
+}
+.summary .taxTotalPay {
+  --text-opacity: 1;
+  color: #0a181d;
+  color: rgba(10, 24, 29, var(--text-opacity));
+  font-weight: 600;
+  margin-bottom: 1.2rem;
+}
+
+.summary button {
+  --bg-opacity: 1;
+  background-color: #f15824;
+  background-color: rgba(241, 88, 36, var(--bg-opacity));
+  letter-spacing: 0.025em;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  font-size: 1rem;
+  font-weight: 500;
+  border-radius: 0.5rem;
+}
+.rooms {
+  display: flex;
+  flex-direction: column;
+}
+
+.rooms > div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+.rimageDiv > img {
+  width: 18vw;
+  height: 30vh;
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
+}
+.descCard {
+  display: flex;
+  justify-content: space-between;
+  --bg-opacity: 1;
+  background-color: #fafeff;
+  background-color: rgba(250, 254, 255, var(--bg-opacity));
+  width: auto;
+  min-height: 30vh;
+  padding: 1rem;
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+  cursor: pointer;
+}
+
+.rname {
+  font-size: 1.25rem;
+  font-weight: 600;
+  --text-opacity: 1;
+  color: #0a181d;
+  color: rgba(10, 24, 29, var(--text-opacity));
+  margin-bottom: 0.5rem;
+}
+
+.description {
+  --text-opacity: 1;
+  color: #4d585b;
+  color: rgba(77, 88, 91, var(--text-opacity));
+  font-size: 0.875rem;
+  margin-bottom: 0.5rem;
+  margin-top: 0.5rem;
+}
+.tag {
+  --text-opacity: 1;
+  color: #f15824;
+  color: rgba(241, 88, 36, var(--text-opacity));
+  font-size: 0.75rem;
+  margin-top: 1rem;
+  font-weight: 800;
+}
+
+.rightSide > p {
+  margin-bottom: 6rem;
+  font-size: 1.25rem;
+  font-weight: 700;
+  --text-opacity: 1;
+  color: #0a181d;
+  color: rgba(10, 24, 29, var(--text-opacity));
+}
+
+.rightSide > button {
+  color: #fff;
+  padding: 0.5rem;
+  font-size: 0.875rem;
+  font-weight: 500;
+  --bg-opacity: 1;
+  background-color: #f15824;
+  border-radius: 0.5rem;
+  border: none;
+  cursor: pointer;
+  background-color: rgba(241, 88, 36, var(--bg-opacity));
+}
+
+.rightSide > button:hover {
+  box-shadow: 0 4px 6px -1px rgb(0 0 0 / 10%), 0 2px 4px -1px rgb(0 0 0 / 6%);
+}
+
+#addressMap {
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  margin: auto;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+#addressMap > .address {
+  width: 35%;
+  height: 40%;
+  line-height: 1.6rem;
+}
+#addressMap > .address > h2 {
+  --text-opacity: 1;
+  color: #0a181d;
+
+  color: rgba(10, 24, 29, var(--text-opacity));
+
+  color: rgba(10, 24, 29, var(--text-opacity));
+
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.5;
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+#addressMap > .address > p {
+  margin-bottom: 1rem;
+  --text-opacity: 1;
+  color: #4d585b;
+  color: rgba(77, 88, 91, var(--text-opacity));
+  font-size: 0.875rem;
+  font-weight: 500;
+}
+
+#addressMap > .map {
+  width: 65%;
+  height: auto;
+}
+
+.iframe {
+  width: 100%;
+  height: 40vh;
+  border-radius: 10px;
+  border: 0px;
+  margin-left: 1.5rem;
+}
+
+#policies {
+  width: 90%;
+  margin: auto;
+  margin-bottom: 5rem;
+}
+
+#policies > div {
+  margin-bottom: 2rem;
+
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#policies > div > h2 {
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  --text-opacity: 1;
+  color: #0a181d;
+  color: rgba(10, 24, 29, var(--text-opacity));
+}
+
+#policies > div > p {
+  --text-opacity: 1;
+  color: #0a181d;
+  color: rgba(10, 24, 29, var(--text-opacity));
+  font-size: 1rem;
+  line-height: 1.8rem;
+}

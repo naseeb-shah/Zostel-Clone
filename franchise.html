@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Home</title>
+        <link href="./index.css" rel="stylesheet"></link>
+        <link rel="stylesheet" href="./header.css">
+    </head>
+
+    <body>
+        <div id="nav"></div>
+        <div id="background-image">
+            <img src="" alt="">
+            <img src="" alt="">
+            <img src="" alt="">
+            <img src="" alt="">
+            <img src="" alt="">
+            <img id="supressed-image" src="https://cdn.zostel.com/website/dream/home-3.jpg">
+        </div>
+       <div id="flexBox">
+           <div id="content-div">
+            <h1 class="text-2xl sm:text-4xl font-bold sm:text-center">We revolutionise travel. Come, join us.</h1>
+            <p class="mt-4 sm:mt-8 sm:text-lg sm:text-center max-w-3xl w-full">As we take on the journey of unlocking and rediscovering destinations in India that largely remain unexplored, we need you to join us as fellow dreamers.</p>
+            <p class="mt-4 sm:mt-8 sm:text-lg sm:text-center max-w-3xl w-full">From local travel and property experts to college graduates, working professionals to property owners, we have opportunities for everyone.</p>
+           </div>
+           <div id="small-box">
+               <div></div>
+               <div></div>
+               <div></div>
+               <div></div>
+           </div>
+       </div>
+    </body>
+   
+
+    <script src="scripts/index.js" ></script>
+    <script type="module">
+        import nav from './import_header.js'
+        document.getElementById("nav").innerHTML=nav()
+      
+    
+    </script>
+</html>
